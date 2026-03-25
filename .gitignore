@@ -1,0 +1,22 @@
+# .NET
+bin/
+obj/
+dist/
+*.user
+*.suo
+.vs/
+
+# Node.js
+node_modules/
+extension/dist/
+extension/chrome/dist/
+extension/firefox/dist/
+
+# Lokalne pliki konfiguracyjne hosta (nie wrzucamy danych użytkownika)
+host/config.json
+host/token.txt
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini

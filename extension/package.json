@@ -1,0 +1,18 @@
+{
+  "name": "bookmark-sync-extension",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "build": "esbuild src/popup.ts src/background.ts src/options.ts --bundle --outdir=dist --target=es2020 && node build-copy.js",
+    "watch": "esbuild src/popup.ts src/background.ts src/options.ts --bundle --outdir=dist --target=es2020 --watch",
+    "build:prod": "esbuild src/popup.ts src/background.ts src/options.ts --bundle --outdir=dist --target=es2020 --minify && node build-copy.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0",
+    "typescript": "^5.4.0",
+    "@types/webextension-polyfill": "^0.10.7"
+  },
+  "dependencies": {
+    "webextension-polyfill": "^0.10.0"
+  }
+}

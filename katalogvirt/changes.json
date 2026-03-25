@@ -1,0 +1,3227 @@
+{
+  "lastUpdated": "2026-03-23T21:15:20.9664242Z",
+  "changes": [
+    {
+      "type": "added",
+      "url": "http://allegro.pl/",
+      "title": "Alledrogo",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://marivo.pl/",
+      "title": "Marivo",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/",
+      "title": "ALI",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://buysmarter.pl/?page_id=61",
+      "title": "Kupony i Promocje \u2013 BuySmarter",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.gearbest.com/",
+      "title": "Gearbest",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.banggood.com/",
+      "title": "BANGGOOD",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://is3.action.pl/user/signin",
+      "title": "i-serwis",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.decathlon.pl/",
+      "title": "Decathlon",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.dhgate.com/",
+      "title": "DHgate",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.dobreprogramy.pl/",
+      "title": "DP",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.onet.pl/",
+      "title": "Onet.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.windguru.cz/734483",
+      "title": "WINFGURU",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.windy.com/49.813/19.329?radar,49.762,19.329,11",
+      "title": "Windy: Targanice prognoza pogody",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.windy.com/pl/-Radar-pogodowy-radar?radar,49.777,19.328,11",
+      "title": "Windy: Radar pogodowy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-3083492/Poland/Lesser%20Poland/Powiat%20wadowicki/Targanice",
+      "title": "Yr - Targanice - Weather forecast",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.yahoo.com/news/weather/poland/targanice/targanice-522241",
+      "title": "Yahoo Weather",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://weather.com/pl-PL/pogoda/dzisiaj/l/69211ff6558a6892e289ff266d96d466e80c1343fd78cb4d8ec82a06ff1da563",
+      "title": "The Weather Channel",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pogoda.onet.pl/prognoza-pogody/targanice-354261",
+      "title": "Pogoda Onet",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.accuweather.com/pl/pl/targanice/1386462/weather-forecast/1386462",
+      "title": "AccuWeather",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://meteo.imgw.pl/?model=alaro\u0026loc=targanice_andrych%C3%B3w",
+      "title": "IMGW",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://map.blitzortung.org/#10.03/49.8637/19.1978",
+      "title": "B\u0142ysawice 2",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://pl.blitzortung.org/live_lightning_maps.php?map=15",
+      "title": "B\u0142yskawice",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://192.168.144.1/",
+      "title": "Router",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Sie\u0107",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://192.168.144.15/",
+      "title": "TUNER DOMINIK",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Sie\u0107",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://192.168.144.16/",
+      "title": "TUNER SYPEILANIA",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Sie\u0107",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://192.168.144.17/",
+      "title": "TUNER SALON",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Sie\u0107",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://192.168.144.26/",
+      "title": "TUNER KUCHNIA",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Sie\u0107",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://192.168.144.12/r49435,/adv,/loginwrap.html",
+      "title": "ZyXEL NSA310",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Sie\u0107",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://192.168.144.14/MainZone/index.html",
+      "title": "DENON",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Sie\u0107",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://speedcubedb.com/",
+      "title": "Speed Cube Database",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ALGI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.speedsolving.com/wiki/index.php/Hoya_method",
+      "title": "Hoya method - Speedsolving.com Wiki",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ALGI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://algdb.net/",
+      "title": "AlgDb",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ALGI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://bestsiteever.ru/colpi/",
+      "title": "CoLPI - collective letter-pair images database for BLD. In all languages.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ALGI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.worldcubeassociation.org/competitions?region=Poland\u0026search=\u0026state=present\u0026year=all\u002Byears\u0026from_date=\u0026to_date=\u0026delegate=\u0026display=list",
+      "title": "WCA POLSKA",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E WCA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.worldcubeassociation.org/",
+      "title": "World Cube Association",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E WCA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://live.worldcubeassociation.org/",
+      "title": "WCA Live",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E WCA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://live.rubiart.pl/",
+      "title": "RubiART Live",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E RubiART",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://zawody.rubiart.pl/competitions/",
+      "title": "RubiART Zawody",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E RubiART",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://rankingi.rubiart.pl/",
+      "title": "Rekordy | Rankingi RubiART",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E PPO",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://rankingi.rubiart.pl/competitors",
+      "title": "ZAWODNICY",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E PPO",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://rankingi.rubiart.pl/series/PPO2023",
+      "title": "Klasyfikacje",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E PPO",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://cube4fun.pl/competitions",
+      "title": "Cube4fun \u2192 Zawody",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE \u003E ZAWODY \u003E CUBE4FUN",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://cubing.com/?lang=en",
+      "title": "Cubing China",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=OWspRVhtQMM\u0026list=PL5xn1NuTRjXxRXC16k9ljOfUzdT_JOH96\u0026index=17",
+      "title": "14 bardzo \u0142atwych OLLi, kt\u00F3rych szybko si\u0119 nauczysz. - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.competitiongroups.com/",
+      "title": "Competition Groups",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://logiqx.github.io/wca-ipy-www/",
+      "title": "Senior Rankings",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.speedcubing.pl/",
+      "title": "speedcubing.pl - portal speedcubera",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://rubitrener.kursy.onl/",
+      "title": "Platforma kurs\u00F3w speedcubingu online \u2013 Najlepsze metody, profesjonalni trenerzy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/playlist?list=PLI24ciRbl8BWbmb42GW5BDinKfKVq79WD",
+      "title": "(19) Advanced Cross - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=HT79xh7GR1Q",
+      "title": "(41) Poradnik do Clocka cz. 0 - FLIP (om\u00F3wienie, metoda i porady) - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://mps2023.pl/",
+      "title": "@2023 Mistrzostwa Polski w Speedcubingu 2023 \u2013",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://maxidragon.github.io/TopPlayers/",
+      "title": "Top players",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://maxidragon.github.io/CubingPredictions/#/podium",
+      "title": "Cubing predictions",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4000355614750.html",
+      "title": "Magiczna kostka puzzle MoYu MeiLong 3C 3x3x3 3x3 cubo pr\u0119dko\u015B\u0107 2x2x2 2x2 szybko\u015B\u0107 zawodowa puzzle magico edukacyjne zabawki dla dzieci|Magic Cubes| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/channel/UCVCaGgq2g0zRPdIN7k_0aBQ",
+      "title": "RubiTrener - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E CUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://en.taiwebs.com/windows/download-office-2013-2019-c2r-install-5531.html",
+      "title": "Download Office 2013-2024 C2R Install v7.7.7.7 r25 \u002B Lite Version",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Download",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://github.com/pipohernadzeze/office-24",
+      "title": "GitHub - pipohernadzeze/office-24: Program for online installation of Microsoft Office 2013-2024 on your PC.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Download",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://portableappz.blogspot.com/",
+      "title": "Portable",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://mega.co.nz/",
+      "title": "MEGA",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Download",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://login.live.com/login.srf?wa=wsignin1.0\u0026rpsnv=12\u0026ct=1433677871\u0026rver=6.4.6456.0\u0026wp=MBI_SSL_SHARED\u0026wreply=https:%2F%2Fonedrive.live.com%3Fgologin%3D1%26mkt%3Dpl-PL\u0026lc=1045\u0026id=250206\u0026cbcxt=sky\u0026mkt=pl-PL\u0026username=zaba44@poczta.fm",
+      "title": "OneDrive",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Download",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://rapids.pl/pobierz",
+      "title": "Rapids",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.gpspower.net/igo-maps.html",
+      "title": "iGO Maps",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Download",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.gpspower.net/",
+      "title": "GPS Power",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Download",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.gpspower.net/igo-tutorials/304319-where-put-igo-different-files.html",
+      "title": "WHERE TO PUT iGO DIFFERENT FILES?",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Download",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.booksclub.pl/index.php",
+      "title": "Klub Ksiazki",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Download",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.facebook.com/",
+      "title": "Facebook",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.centrum24.pl/centrum24-web/login",
+      "title": "BZWBK",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://poczta.o2.pl/?id=0\u0026o=0\u0026view=inbox",
+      "title": "o2",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://dhoom.org/buy.php",
+      "title": "your buy cccam your visa and master card pay option in Stripe \u0026 paypal",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E CCC",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://clinehub.com/freetest/",
+      "title": "Welcome To Clinehub.com",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E CCC",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://kinghd.info/cccambuynow.php",
+      "title": "Premium Cccam Buy | Free Oscam Cccam Test Generater",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E CCC",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005005672682990.html?srcSns=sns_Copy\u0026spreadType=socialShare\u0026bizType=ProductDetail\u0026social_params=21049457814\u0026tt=MG\u0026shareId=21049457814\u0026businessType=ProductDetail\u0026platform=AE\u0026afSmartRedirect=y",
+      "title": "2 sztuki gumowe silikonowe pokrowce na antypo\u015Blizgowa nak\u0142adka analogowe palce kciuki do w\u0105skich kontroler\u00F3w akcesoria - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E CCC",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.goodiptv.vip/?spm=..product_d1452792-cf68-4c43-b620-b2cee44778fc.header_1.1\u0026spm_prev=..index.products_3.1",
+      "title": "Provide high-quality, stable and reliable m3u iptv subscription service",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E CCC",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.cccambird.com/subscribe.php",
+      "title": "CCcamBird",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E CCC",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://audioteka.com/pl/search/cycle?query=Ba%C5%9Bniob%C3%B3r",
+      "title": "Ba\u015Bniob\u00F3r | Najlepsze audiobooki online w Audioteka",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E AUDIO",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://audioteka.com/pl/audiobook/bogumil-wislanin",
+      "title": "Bogumi\u0142 Wi\u015Blanin audiobook | Audioteka",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E AUDIO",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://audioteka.com/pl/audiobook/czerwona-jaskolka",
+      "title": "Czerwona jask\u00F3\u0142ka audiobook | Audioteka",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E AUDIO",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://audioteka.com/pl/search/cycle?query=Poza%C5%9Bwiatowcy",
+      "title": "Poza\u015Bwiatowcy | Najlepsze audiobooki online w Audioteka",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E AUDIO",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://audioteka.com/pl/audiobook/virion-wyrocznia",
+      "title": "Virion. Wyrocznia audiobook | Audioteka",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E AUDIO",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.wisp.pl/p11319,mikrotik-wap-ax-wapg-5haxd2haxd.html",
+      "title": "MikroTik wAP ax (wAPG-5HaxD2HaxD) :: WISP.PL Dystrybutor sprz\u0119tu sieciowego",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005008218101179.html?gps-id=pcDetailTopMoreOtherSeller\u0026_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:7a010d06-e497-484c-817b-5cc00b324f87,tpp_buckets:668%232846%238112%231997\u0026pdp_ext_f=%7B%22order%22%3A%2236%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D",
+      "title": "NOYAFA Tester kabli sieciowych NF-8506 Obs\u0142uga \u015Bledzenia kabli Test PING/skanowanie IP/Poe Zmierz d\u0142ugo\u015B\u0107 Tester kropl\u00F3wek wir\u00F3wkowych Narz\u0119dzia Networt - AliExpress 1420",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005007945508045.html?pdp_ext_f=%7B%22order%22%3A%2278%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D",
+      "title": "NOYAFA NF-8508 Tester \u015Bledzenia kabli Wy\u015Bwietlacz LCD Miernik d\u0142ugo\u015Bci Tester liniiiremap Kontroler PoE Optyczny miernik mocy Narz\u0119dzia sieciowe - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/obudowa-dysku-kieszen-ssd-hdd-sata-2-5-usb-3-0-14195244068",
+      "title": "Obudowa Dysku Kiesze\u0144 SSD HDD SATA 2,5 USB 3.0 - Sklep, Opinie, Cena w Allegro",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005008563370243.html?src=facebook\u0026albch=apprmkt\u0026albagn=1859981139\u0026albcp=120214238711930341\u0026albag=120229302161200341\u0026albad=120229302161190341\u0026traffic_server_nav=true\u0026utm_medium=paid\u0026utm_source=fb\u0026utm_id=120214238711930341\u0026utm_content=120229302161190341\u0026utm_term=120229302161200341\u0026utm_campaign=120214238711930341\u0026aff_fcid=239bc73925504b1f9fc7c2d0d0a85bc5-1750188061712-02842-cCZtBY5p\u0026aff_fsk=cCZtBY5p\u0026aff_platform=promotion\u0026sk=cCZtBY5p\u0026aff_trace_key=239bc73925504b1f9fc7c2d0d0a85bc5-1750188061712-02842-cCZtBY5p\u0026terminal_id=f75024fba81641c48e0d73a1d0d989de\u0026afSmartRedirect=n\u0026gatewayAdapt=glo2pol",
+      "title": "Narz\u0119dzie do odtwierania kabli sieciowych LAOA, prostownica in\u017Cynierska do kabli kryszta\u0142owych kategorii 5/6/7, \u0142atwe czesanie separatora par przewod\u00F3w - AliExpress 1420",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/kamix-woda-destylowana-ultra-czysta-5l-13655134307?reco_id=f4c05767-12f8-11ef-9e98-02719630c524\u0026sid=1147bbb04b955b96a226cab2e664258d9124ef0862320b2d7366fdd6604cf017",
+      "title": "KAMIX Woda destylowana ULTRA CZYSTA 5l 5905052600268 za 12,35\u00A0z\u0142 z Toru\u0144 - Allegro.pl - (13655134307)",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/tester-lan-poe-szukacz-par-noyafa-nf-8508-16018624034",
+      "title": "TESTER LAN POE SZUKACZ PAR NOYAFA NF-8508 - Sklep, Opinie, Cena w Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/neo-bianacid-45-tabletek-nowy-cytrynowy-smak-zgaga-refluks-neobianacid-16920750782",
+      "title": "NEO BIANACID - 45 TABLETEK NOWY CYTRYNOWY SMAK /ZGAGA /REFLUKS NEOBIANACID 16920750782 - Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/neobianacid-nadkwasnosc-refluks-aboca-45-tab-12348926470",
+      "title": "NEOBIANACID nadkwa\u015Bno\u015B\u0107 refluks Aboca 45 tab. 12348926470 - Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://techrebal.pl/pl/p/Klej-uniwersalny-T-7000-110ml/1629",
+      "title": "Klej uniwersalny T-7000 110ml \u2022 cena \u2022 opinie | Sklep internetowy Techrebal",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005008041027771.html",
+      "title": "Obudowa M.2 NVME SSD Zewn\u0119trzna obudowa USB 3.2 Gen2 10 Gb/s Type-A \u002B Type-C M2 NVME Adapter Box Obs\u0142uguje 2230 M.2 NVME SSD - AliExpress 7",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005006078804310.html?tt=CPS_NORMAL\u0026afSmartRedirect=y",
+      "title": "Wysokiej latarka elektryczna Led latarka Super jasny d\u0142ugi klasy Ultra mocny zewn\u0119trzny taktyczny lampa kempingowa lampa r\u0119czna - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005005966510668.html?tt=CPS_NORMAL\u0026afSmartRedirect=y",
+      "title": "Lateksowe wk\u0142adki sportowe mi\u0119kkie, o wysokiej elastyczno\u015Bci wk\u0142adki do but\u00F3w ortopedyczne oddychaj\u0105cy dezodorant poduszka amortyzuj\u0105ca wk\u0142adka podtrzymuj\u0105ca \u0142uk - AliExpress 322",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/tester-lan-poe-szukacz-par-noyafa-nf-8508-16434599408",
+      "title": "TESTER LAN POE SZUKACZ PAR NOYAFA NF-8508 (556555566) \u2022 Cena, Opinie \u2022 Tarki i szatkownice 16434599408 \u2022 Allegro",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005005588526837.html?tt=CPS_NORMAL\u0026afSmartRedirect=y",
+      "title": "Wkr\u0119tak elektryczny WX242 wkr\u0119tarka WX242 inteligentny wkr\u0119tarka wkr\u0119tarka elektryczna akumulatorowa z 30 zestaw cz\u0119\u015Bci wiertarka elektryczna narz\u0119dziami - AliExpress 1420",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=iTkWmTBQ234",
+      "title": "Kupi\u0142em N\u00D3\u017B FOXX GOTUJE | Jak DOBRY jest N\u00D3\u017B YOUTUBERA? - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.pl/search?q=7764102010\u0026source=lnms\u0026tbm=isch\u0026sa=X\u0026ved=0ahUKEwiGibHgiNzTAhUnQJoKHTlIBYsQ_AUICygC\u0026biw=1920\u0026bih=950",
+      "title": "7764102010 - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/search?q=council\u002Boil\u002Babsorber\u0026ie=UTF-8",
+      "title": "council oil absorber - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.ceneo.pl/27792102#tab=reviews",
+      "title": "Kosiarka Mtd Advance 53 Spkv Hw - Ceny i opinie - Ceneo.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005004634981643.html?tt=CPS_NORMAL\u0026afSmartRedirect=y",
+      "title": "NEENCA mied\u017A orteza stawu skokowego wsparcie kolana z rzepki podk\u0142adka \u017Celowa i boczne stabilizatory do b\u00F3lu kolana Sport zapalenie staw\u00F3w ACL b\u00F3l staw\u00F3w Relief - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.carpodgo.com/products/t3pro?variant=48323133342001",
+      "title": "CarpodGo Portable Wireless Display Screen for Carplay or Android Auto",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/siodelko-rowerowe-siodlo-sportowe-miekkie-antywstrzasowe-extra-wentylacja-15102275413",
+      "title": "SIODE\u0141KO ROWEROWE SIOD\u0141O SPORTOWE MI\u0118KKIE ANTYWSTRZ\u0104SOWE EXTRA WENTYLACJA - 6BA0028RD901 - 15102275413 - Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/listing?string=5906874137420",
+      "title": "5906874137420 - Niska cena na Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/octagon-sf8008-supreme-twin-4k-2xdvb-s2x-linux-e2-15137553907",
+      "title": "OCTAGON SF8008 SUPREME TWIN 4K 2xDVB-S2X LINUX E2 - Sklep, Opinie, Cena w Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005006087500312.html?tt=CPS_NORMAL\u0026afSmartRedirect=y",
+      "title": "Xiaomi Mijia nawil\u017Cacz nawil\u017Caj\u0105cy 2 300 mL/h 4L urz\u0105dzenie do produkcji mg\u0142y o du\u017Cej pojemno\u015Bci dodaje wod\u0119 do domowego biura kontrola wilgotno\u015Bci przy niskim poziomie d\u017Awi\u0119ku - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4001268699587.html?spm=a2g0o.productlist.0.0.5e64161bIHIvfL\u0026algo_pvid=92793c89-3dff-4237-8db7-ac2f0e2a15c9\u0026algo_expid=92793c89-3dff-4237-8db7-ac2f0e2a15c9-0\u0026btsid=0b0a182b16051057196164624e01f7\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "Ezcap 262 1080P 60fps USB SDI rejestrator wideo SDI na USB 3.0 gra wideo karta przechwytuj\u0105ca dla Mac Windows Linux przekaz na \u017Cywo|Karty graficzne i telewizyjne| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.pl/search?client=opera\u0026q=nar0010\u002Bkemot\u0026sourceid=opera\u0026ie=UTF-8\u0026oe=UTF-8",
+      "title": "nar0010 kemot - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.pl/search?client=opera\u0026hs=80W\u0026sxsrf=ACYBGNR_kyKPG9G_0YsqM_u__0l0MkNhjg%3A1576574650720\u0026ei=up74XcTMK-OqrgSKwZ2gCA\u0026q=ms6813\u002Bmastech\u0026oq=ms6813\u0026gs_l=psy-ab.3.1.0l3j0i203j0i30l6.252907.258049..261322...0.0..0.89.454.7......0....1..gws-wiz.......35i39j0i131.1z69j3PaPY4",
+      "title": "ms6813 mastech - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://sale.aliexpress.com/pl/__pc/11_coupon_center.htm?dp=fbfb27feda62375ced09c6907f79b788\u0026af=570142\u0026cv=47843\u0026afref=https%253A%252F%252Fwww.facebook.com%252F\u0026mall_affr=pr3\u0026dp=fbfb27feda62375ced09c6907f79b788\u0026af=570142\u0026cv=47843\u0026afref=https%253A%252F%252Fwww.facebook.com%252F\u0026mall_affr=pr3\u0026aff_platform=aaf\u0026cpt=1573420375650\u0026sk=VnYZvQVf\u0026aff_trace_key=7c2d82e3a11f4f99ba4ec6d1c663b458-1573420375650-09298-VnYZvQVf\u0026terminal_id=14801aa72ce7465f852c3f25d13d5d82",
+      "title": "Centrum Kupon\u00F3w AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.decathlon.pl/rkawice-alpinist-sprint-ii-id_8510372.html",
+      "title": "R\u0119kawice alpinist. Sprint II SIMOND - ODZIE\u017B ALPINISTYCZNA Wspinaczka, alpinizm - Decathlon",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.aliexpress.com/item/Lescolton-IPL-Laser-Hair-Removal-Machine-Laser-Epilator-Hair-Removal-Permanent-Bikini-5-levels-Home-Electric/32824311258.html?af=540645\u0026aff_platform=aaf\u0026cpt=1556961921675\u0026afref=https%253A%252F%252Fwww.facebook.com%252F\u0026dp=f9ca4f2e3b86111258cf7dc7ec1acbcb\u0026cv=47843\u0026pvid=cd0a6134-a1b1-4a92-b62f-0a0e48248f25\u0026mall_affr=pr3\u0026sk=VnYZvQVf\u0026aff_trace_key=e0d4bcae7d034e21b5d9762e308e99da-1556961921675-01562-VnYZvQVf\u0026rmsg=replace_same_item\u0026scm=1007.23534.124736.0\u0026terminal_id=14801aa72ce7465f852c3f25d13d5d82",
+      "title": "Lescolton 2in1 IPL Laser Hair Removal Machine Laser Epilator Hair Removal Permanent Bikini Trimmer Electric depilador a laser-in Epilators from Home Appliances on Aliexpress.com | Alibaba Group",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://miskapupila.pl/",
+      "title": "Najlepsza karma! - miskapupila.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.facebook.com/groups/220023828833217/permalink/436294550539476/",
+      "title": "Gearbest Banggood Polska",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.decathlon.pl/buty-mh500-wtp-mskie-id_8504162.html",
+      "title": "Buty MH500 WTP m\u0119skie QUECHUA - Turystyka Turystyka, trekking - Decathlon",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/listing?string=6.904.322",
+      "title": "6.904.322 - Allegro.pl - Wi\u0119cej ni\u017C aukcje. Najlepsze oferty na najwi\u0119kszej platformie handlowej.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/ZhangJi-100-sztuk-Magia-Sponge-Eraser-Cleaner-Akcesoria-Kuchenne-Narz-dzia-Melamina-G-bka-Do-Mycia/32947280854.html?af=34310\u0026cv=8597110\u0026cn=43phqbb24yxxrsxf1wsxgkz3woz6z0y7\u0026dp=v5_43phqbb24yxxrsxf1wsxgkz3woz6z0y7\u0026af=34310\u0026cv=8597110\u0026cn=43phqbb24yxxrsxf1wsxgkz3woz6z0y7\u0026dp=v5_43phqbb24yxxrsxf1wsxgkz3woz6z0y7\u0026afref=https%253A%252F%252Fwww.facebook.com\u0026aff_platform=default\u0026cpt=1541435582517\u0026sk=ccfBY4yg\u0026aff_trace_key=78cfecb2a46d4098b4b01037b783d420-1541435582517-08914-ccfBY4yg\u0026terminal_id=29645592eec1460691a7e779c5eeac70",
+      "title": "ZhangJi 100 sztuk Magia Sponge Eraser Cleaner Akcesoria Kuchenne Narz\u0119dzia Melamina G\u0105bka Do Mycia Naczy\u0144 Szczotka Do Czyszczenia 100*60 * 20mm w ZhangJi 100 sztuk Magia Sponge Eraser Cleaner Akcesoria Kuchenne Narz\u0119dzia Melamina G\u0105bka Do Mycia Naczy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/40-sztuk-Magia-Sponge-Eraser-Cleaner-Akcesoria-Kuchenne-Narz-dzia-Melamina-G-bka-Silikonowe-Do-Mycia/32834896229.html?cv=47843\u0026af=570142\u0026aff_platform=default\u0026mall_affr=pr3\u0026cpt=1542312538316\u0026afref=https%253A%252F%252Fwww.facebook.com%252F\u0026sk=Sx28h32\u0026aff_trace_key=0a3c7b93b3e54162bb2f854837ffbd83-1542312538316-09380-Sx28h32\u0026dp=3f500c77166926766ec77ee4363f133e\u0026terminal_id=29645592eec1460691a7e779c5eeac70",
+      "title": "40 sztuk Magia Sponge Eraser Cleaner Akcesoria Kuchenne Narz\u0119dzia Melamina G\u0105bka Silikonowe Do Mycia Naczy\u0144 Szczotka Do Czyszczenia 100*60 * 20mm EH056 w 40 sztuk Magia Sponge Eraser Cleaner Akcesoria Kuchenne Narz\u0119dzia Melamina G\u0105bka Silikonowe Do M",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.worldcubeassociation.org/competitions/DragonCubingI2024/registrations",
+      "title": "szmy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.mgsm.pl/pl/katalog/vivo/x515g/",
+      "title": "Vivo X51 5G Dane techniczne telefonu :: mGSM.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/kategoria/mleczka-i-pasty-polerskie-polerowanie-lamp-253306?bi_s=archiwum_allegro\u0026bi_m=Button\u0026bi_c=Product\u0026bi_term=Chemia-18903_Chemia%20blacharsko-lakiernicza-18908_Mleczka%20i%20pasty%20polerskie-253297_Polerowanie%20lamp-253306\u0026string=K2%20Vapron\u0026order=p",
+      "title": "K2 Vapron Polerowanie lamp samochodowych - Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.ceneo.pl/53862053",
+      "title": "TEMPUR Poduszka TEMPUR Sonata Ergonomiczne Podparcie (S) 61x40x9,5 cm - Opinie i atrakcyjne ceny na Ceneo.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4000782045177.html?af=674071\u0026utm_campaign=674071\u0026aff_platform=portals-tool\u0026utm_medium=cpa\u0026afref=https%3A%2F%2Fwww.facebook.com%2F\u0026dp=253ef11ba65392318d9024e7eb9395d3\u0026cv=47843\u0026mall_affr=pr3\u0026sk=_ePNSNV\u0026aff_trace_key=0a45a03bf1a1485aa50eed71ca0d353c-1607171451094-09879-_ePNSNV\u0026terminal_id=bac4b1b791f8454a83cd0e599b9446d2\u0026tmLog=new_Detail\u0026utm_source=admitad\u0026utm_content=47843",
+      "title": "Jajko idealny kolor zmiana zegar pyszne mi\u0119kkie jajka na twardo gotowanie kuchnia ekologiczne \u017Cywica Timer w kszta\u0142cie jajka czerwony timera narz\u0119dzia kuchenne|Minutniki kuchenne| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4001364754572.html?spm=a2g0o.detail.1000060.1.4ffb6d6e7prNgf\u0026gps-id=pcDetailBottomMoreThisSeller\u0026scm=1007.13339.169870.0\u0026scm_id=1007.13339.169870.0\u0026scm-url=1007.13339.169870.0\u0026pvid=b2e4fc75-aa0b-4a85-a62b-4c8c8d5d811f\u0026_t=gps-id:pcDetailBottomMoreThisSeller,scm-url:1007.13339.169870.0,pvid:b2e4fc75-aa0b-4a85-a62b-4c8c8d5d811f,tpp_buckets:668%230%23131923%230_668%23808%233772%2372_668%23888%233325%2318_668%232846%238109%23294_668%232717%237562%23410_668%231000022185%231000066058%230_668%233468%2315609%23247",
+      "title": "Narz\u0119dzia r\u0119czne szczypce do zaciskania YE 16 6 0.08 16mm2 terminal rurowy mini narz\u0119dzie do zaciskania, HSC8 6 4 / 6 6 / 10S / 10A|Kombinerki| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.banggood.com/XIAOMI-70mai-Dash-Cam-Pro-English-Russian-Version-1944P-HD-Car-DVR-Camera-SONY-IMX335-Sensor-140-Degree-FOV-p-1367394.html?rmmds=detail-top-buytogether-auto\u0026ID=47941\u0026cur_warehouse=GWTR",
+      "title": "xiaomi 70mai dash cam pro english russian version 1944p hd car dvr camera sony imx335 sensor 140 degree fov Sale - Banggood.com",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4000423092621.html?spm=a2g0o.productlist.0.0.3231cba21Sl5Cv\u0026algo_pvid=4fe4098f-ccf5-4877-9644-2a3b635801ee\u0026algo_expid=4fe4098f-ccf5-4877-9644-2a3b635801ee-35\u0026btsid=2100bddd16043500152561046eb926\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "Narz\u0119dzie do zaciskania przewod\u00F3w szczypce A3 stalowe wielofunkcyjne zaciski uniwersalna zaciskarka uniwersalna zaciskarka do przewodu F/BNC/z\u0142\u0105cze rca|Kombinerki| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005001654758781.html?spm=a2g0o.productlist.0.0.51723dc6TlPcqx\u0026algo_pvid=fdacde07-3bf4-44e8-9d92-8aae07d68a82\u0026algo_expid=fdacde07-3bf4-44e8-9d92-8aae07d68a82-0\u0026btsid=2100bb4716040916740237198e49d1\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "4K 60fps HDMI 2 w 1 na USB3.0 karta przechwytywania wideo z gr\u0105 1080p HD transmisja na \u017Cywo i nagrywanie Grabber Converter @|Kamerki| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4001105630433.html?spm=a2g17.12010612.8148356.2.5b2f78c6ZIrZir",
+      "title": "2020 nowa oryginalna Xiaomi Mi Band 5 inteligentna bransoletka 1.1 \u0027AMOLED kolorowy ekran nadgarstek z magnetycznym \u0142adowaniem NFC Miband 5 XMSH10HM|Inteligentne opaski| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/33058905146.html?spm=a2g0o.productlist.0.0.5db47ff3LXepir\u0026algo_pvid=5cfaffdf-0316-4d8e-8c6c-50277ab1dea4\u0026algo_expid=5cfaffdf-0316-4d8e-8c6c-50277ab1dea4-3\u0026btsid=a31617fa-b5e2-4129-be8d-ca6abcce8d5a\u0026ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_52",
+      "title": "Xiao mi mi jia Wiha 24 w 1 zestaw precyzyjnych \u015Brubokr\u0119t\u00F3w 60HRC magnetyczne bity naprawa narz\u0119dzia Xao mi Xiao mi zestaw wkr\u0119tak\u00F3w zestaw cz\u0119\u015Bci w Inteligentny pilot zdalnego sterowania od Elektronika u\u017Cytkowa na AliExpress - 11.11_Double 11Sing",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://cudali.pl/produkt/digoo-dg-ex003-vertical-color-screen-weather-station/",
+      "title": "DIGOO DG-EX003 Vertical Color Screen Weather Station \u2013 Cudali",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.gearbest.com/smart-watches/pp_009713994362.html?wid=1349303",
+      "title": "AMAZFIT GTR 47mm Smart Watch 24 Days Battery Life 5ATM Waterproof Global Version ( Xiaomi Ecosystem Product ) | Gearbest",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.joom.com/pl/products/5c6132aa8b45130101080fe3",
+      "title": "220 V LCD Zasilacz DC 0-10A 0-32 V Regulowane precyzyjne cyfrowe zmienne Lab - kupi\u0107 w niskich cenach w sklepie internetowym Joom",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.gearbest.com/memory-cards/pp_3006759107210758.html?wid=2000001\u0026lkid=70763102\u0026fbclid=IwAR2CAF50BpnwSYjIIsfm4cmyxQ00JNEpsrhPdnKwQnlyZibYxWtGsLGPdow",
+      "title": "Samsung 128G Class 10 UHS - 3 TF Memory Card | Gearbest",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.joom.com/pl/products/5ccbec0f6ecda8010158fda6",
+      "title": "D\u0141UGA WEI LW-K3010D 110 V / 220 V 30 V 10 A Regulowany wy\u015Bwietlacz cyfrowy LED Prze\u0142\u0105czanie zasilania DC - kupi\u0107 w niskich cenach w sklepie internetowym Joom",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.decathlon.pl/buty-mh500-wtp-mskie-id_8493380.html",
+      "title": "Buty MH500 WTP m\u0119skie QUECHUA - Turystyka Turystyka - Decathlon",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/zestaw-6x-zarowka-led-e27-13w-100w-philips-1521lm-8475942517?reco_id=6c01f912-f971-11e9-b066-b8ca3a6c1750\u0026sid=33576bb584af310e54654e666341580a8023c67e677d0e348bb22de8ec6db715",
+      "title": "Zestaw 6x \u017Bar\u00F3wka LED E27 13W=100W PHILIPS 1521LM 8475942517 - Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.decathlon.pl/wkadki-run-300-id_8329319.html",
+      "title": "Wk\u0142adki Run 300 KALENJI - Bieganie Obuwie m\u0119skie - Decathlon",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://perfumyexpress.pl/product-pol-12348-Paco-Rabanne-Invictus-woda-toaletowa-100-ml.html",
+      "title": "Paco Rabanne Invictus woda toaletowa 100 ml | Zapachy m\u0119skie \\ Paco Rabanne Zapachy m\u0119skie \\ Paco Rabanne | Markowe perfumy i kosmetyki",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.bioderma.pl/produkty/photoderm/apres-soleil",
+      "title": "Photoderm Apr\u00E8s-soleil emulsja po opalaniu, nawil\u017Caj\u0105ca, \u0142agodz\u0105ca i przed\u0142u\u017Caj\u0105ca opalenizn\u0119 | Bioderma Polska",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://cudali.pl/product/xiaomi-mija-odstraszacz-komarow/?fbclid=IwAR0GQi17rlyuqxZFIAu1gb7NQAxWTVyijSnLo7Ggtfk5HZyiHtCysJKN91A",
+      "title": "- Cudali",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://ikea-club.com.ua/ru/sku-90251701",
+      "title": "IKEA CLUB | | 902.517.01, KLIPPSTA, szafka \u015Bcienna z 1 drzwiami, klasyczna br\u0105zowa, 80x60 cm, w Kijowie, Charkowie, Dniepropietrowsku, Odessie, Zaporo\u017Cu, Lwowie.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://allegro.pl/listing/listing.php?department=wszystkie\u002Bdzia%C5%82y\u0026order=d\u0026search_scope=wszystkie\u002Bdzia%C5%82y\u0026string=6.904.322",
+      "title": "6.904.322 - Allegro.pl - Wi\u0119cej ni\u017C aukcje. Najlepsze oferty na najwi\u0119kszej platformie handlowej.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://allegro.pl/listing/user/listing.php?us_id=10605078\u0026id=67193",
+      "title": "Przedmioty u\u017Cytkownika rachmat - Elektronika - Allegro.pl - Wi\u0119cej ni\u017C aukcje. Najlepsze oferty na najwi\u0119kszej platformie handlowej.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.banggood.com/GPS-Module-for-XIAOMI-70mai-Dash-Cam-Pro-p-1368316.html?cur_warehouse=GWTR",
+      "title": "gps module for xiaomi 70mai dash cam pro english version Sale - Banggood.com",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/sandberg-adapter-displayport-1-2-hdmi-2-0-4k60-7706714363",
+      "title": "Sandberg Adapter DisplayPort 1.2 HDMI 2.0 4K60 7706714363 - Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/fotel-rozkladany-z-funkcja-masazu-rehabilitacyjny-7830314481",
+      "title": "fotel rozk\u0142adany z funkcj\u0105 masa\u017Cu rehabilitacyjny 7830314481 - Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/listing?string=szafka%20wisz%C4%85ca%2080x60x30\u0026order=m\u0026bmatch=baseline-cl-n-uni-1-0-1123\u0026price_to=150",
+      "title": "Szafka wisz\u0105ca 80x60x30 - Allegro.pl - Wi\u0119cej ni\u017C aukcje. Najlepsze oferty na najwi\u0119kszej platformie handlowej.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.decathlon.pl/wkadki-cushioning-gel-id_8305792.html",
+      "title": "Wk\u0142adki CUSHIONING GEL SIDAS - Turystyka Turystyka, trekking - Decathlon",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.facebook.com/cudalipl/posts/405606103543267",
+      "title": "cudali.pl - Gearbest Banggood Geekbuying TomTop Coupons - Posty",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/SmartDevil-3A-Szybka-TypeC-Kabel-Szybkiego-adowania-USB-C-Kabel-Typu-c-Danych-adowarka-Kabel-Do/32917529010.html?cv=47843\u0026af=642168\u0026aff_platform=default\u0026mall_affr=pr3\u0026cpt=1547582520836\u0026afref=https%253A%252F%252Fwww.facebook.com%252F\u0026sk=Z9n7ZlW\u0026aff_trace_key=e39b3f5888e344f0a9f7a7be73349db9-1547582520836-01657-Z9n7ZlW\u0026dp=e7d6202306041d950831d051fe5326c4\u0026terminal_id=54690ec0d0614d96861b8fcb2d2c3bbf",
+      "title": "SmartDevil 3A Szybka TypeC Kabel Szybkiego \u0141adowania USB C Kabel Typu c Danych \u0141adowarka Kabel Do Samsung S8 S9 s7 Uwaga 8 9 Xiaomi mi5 mi6 w SmartDevil 3A Szybka TypeC Kabel Szybkiego \u0141adowania USB C Kabel Typu c Danych \u0141adowarka Kabel Do Samsung S8 ",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/Dorwee-Magnetyczne-3-w-1-Kabel-USB-C-Micro-USB-8-pin-Kabel-3-0-Szybko/32947690146.html?cv=47843\u0026af=570142\u0026aff_platform=default\u0026mall_affr=pr3\u0026cpt=1541091043024\u0026afref=\u0026sk=c1EGysDa\u0026aff_trace_key=e1e652430263454d89419d8df67c55c6-1541091043024-09992-c1EGysDa\u0026dp=dad3c7bc9333bd51fe2863e4c468a385\u0026terminal_id=29645592eec1460691a7e779c5eeac70",
+      "title": "Dorwee Magnetyczne 3 w 1 Kabel USB C/Micro USB/8 pin Kabel 3.0 Szybko \u0141adowania Danych Sync \u0142adowarka USB Kabel Do Samsung Xiaomi w Dorwee Magnetyczne 3 w 1 Kabel USB C/Micro USB/8 pin Kabel 3.0 Szybko \u0141adowania Danych Sync \u0142adowarka USB Kabel Do Sams",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.banggood.com/XANES-1200-Lumen-R3-2LED-4-Models-Super-Bright-Mini-Headlamp-Headlight-Flashlight-Torch-Lamp-p-996793.html?admitad_uid=fbe41e53168c4a006ab2e53fedca0c9b\u0026cur_warehouse=CN",
+      "title": "XANES 1200 Lumen R3\u002B2LED 4 Models Super Bright Mini Headlamp Headlight Flashlight Torch Lamp Sale - Banggood.com",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/Reversible-Ratchet-Wrench-Ratcheting-Socket-Spanner-Nut-Tool-Car-Motorcycle-Repair-Tools-Ratchet-Wrench-Spanners-6mm/32827548175.html?spm=a2g17.search0103.3.57.3ef98627F8Kf21\u0026ws_ab_test=searchweb0_0,searchweb201602_3_10152_10151_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10304_10307_10301_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_10621_10620,searchweb201603_25,ppcSwitch_4\u0026algo_expid=2ccc1189-1fb6-4788-bc70-71a56d17bd22-7\u0026algo_pvid=2ccc1189-1fb6-4788-bc70-71a56d17bd22\u0026transAbTest=ae803_3\u0026priceBeautifyAB=0",
+      "title": "Odwracalne Klucz Grzechotkowy Gniazdo Wzmaganie Narz\u0119dzie Nakr\u0119tki Samoch\u00F3d Motocykl Naprawa Narz\u0119dzia Ratchet Spanner Klucz Klucze 6mm 18mm w Odwracalne Klucz Grzechotkowy Gniazdo Wzmaganie Narz\u0119dzie Nakr\u0119tki Samoch\u00F3d Motocykl Naprawa Narz\u0119dzia R",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.vetanimal24.pl/dla_psa/preparaty/pd/foresto_450_g_203_g_obroza_dla_psow_o_masie_ciala_8kg",
+      "title": "Preparaty przeciwpchelne - Akcesoria dla ps\u00F3w",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.aliexpress.com/item/Xiaomi-70mai-Dash-Cam-Pro-1944P-GPS-ADAS-70-mai-pro-Cam-English-Voice-Control-24H/32931282121.html?af=570142\u0026aff_platform=aaf\u0026cpt=1558469948040\u0026afref=https%253A%252F%252Fwww.facebook.com%252F\u0026dp=988916346f4eba9c778807c30709097a\u0026cv=47843\u0026pvid=596dda33-8f86-41e0-be98-3e29e0cc2775\u0026mall_affr=pr3\u0026sk=VnYZvQVf\u0026aff_trace_key=a623443b1b5f44ba9e5d560a2827369d-1558469948040-09398-VnYZvQVf\u0026rmsg=replace_same_item\u0026scm=1007.23534.123999.0\u0026terminal_id=14801aa72ce7465f852c3f25d13d5d82",
+      "title": "Xiaomi 70mai Dash Cam Pro 1944P GPS ADAS 70 mai pro Cam English Voice Control 24H Parking Monitor 140FOV Night Vision Wifi Cam-in DVR/Dash Camera from Automobiles \u0026 Motorcycles on Aliexpress.com | Alibaba Group",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Zakupy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.dobreprogramy.pl/WinToHDD,Program,Windows,83310.html",
+      "title": "WinToHDD 3.0 - dobreprogramy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Programy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.dobreprogramy.pl/NAPS2,Program,Windows,63368.html",
+      "title": "NAPS2 4.2.3 - dobreprogramy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E Programy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=SZixI8gZX_c",
+      "title": "(78) ZIELONY STAW KIE\u017BMARSKI, S\u0141OWACJA - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/search?q=Krawc%C3%B3w\u002BWierch\u0026ie=UTF-8",
+      "title": "Krawc\u00F3w Wierch - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://hasajacezajace.com/park-grodek-polskie-malediwy/",
+      "title": "Park Gr\u00F3dek w Jaworznie czyli Polskie Malediwy \u2013 Hasaj\u0105ce Zaj\u0105ce",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.pl/maps/place/Sowiarnia\u002BS%C5%82awk%C3%B3w/@50.3258418,19.3986565,11z/data=!4m5!3m4!1s0x0:0x4410a1cfac4c5617!8m2!3d50.3145687!4d19.3944549",
+      "title": "Sowiarnia S\u0142awk\u00F3w \u2013 Mapy Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.wiecznatulaczka.pl/zielony-staw-kiezmarski-opis-szlaku/",
+      "title": "TATRY - Zielony Staw Kie\u017Cmarski - opis szlaku",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://zieloniwpodrozy.pl/latwe-szlaki-w-tatrach/?fbclid=IwAR2y2Ve_XrIENZedhzGMIi4G9W5mC8y-urYGbX5T8wIFVNj4eN5_soUHquM",
+      "title": "\u0141atwe szlaki w Tatrach - pi\u0119kne miejsca dla ka\u017Cdego - Zieloni w podr\u00F3\u017Cy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://odpowiedzialniewgory.pl/",
+      "title": "Odpowiedzialnie w G\u00F3ry",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://hasajacezajace.com/podroze-po-swiecie/",
+      "title": "Podr\u00F3\u017Ce po \u015Awiecie",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=OHf8dXy1bpk",
+      "title": "Aplikacja Polskie G\u00F3ry - podstawy, cz\u0119\u015B\u0107 1 - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://onestepforward.pl/co-zabrac-w-gory-latem/?fbclid=IwAR1nUNeDj4wG3OiJqYXFzwlJoj6nEf4FrflAY80GReg-jjrxygpem9zOvrQ",
+      "title": "CO ZABRA\u0106 W G\u00D3RY LATEM? LISTA KONTROLNA | ONE STEP FORWARD",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=5zHczHdKLno\u0026fbclid=IwAR1m6z9MdcguUEsTnCUg2gk8dEB6T681juYt2ajS-wbcQVO_A49zPWecOr0",
+      "title": "Tatry, SPADLI W PRZEPA\u015A\u0106, akcja ratunkowa TOPR, Dolina 5 Staw\u00F3w Polskich - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/maps/d/viewer?mid=1VhwWQKR--xFbLzyp-Qyn_YR1g8QHq3U9\u0026ll=50.01857771716273%2C19.07284704999995\u0026z=8",
+      "title": "Korona G\u00F3r Polski - mapa \u2013 Moje Mapy Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=Fw5yK5pkF0U\u0026list=PL643FAA8635850C81",
+      "title": "Akademia G\u00F3rska TOPR - Odcinek 1 - Burze - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://tatromaniak.pl/aktualnosci/mija-113-lat-od-zakonczenia-budowy-orlej-perci-opis-trasy-i-dokladny-film-z-przejscia/?fbclid=IwAR2WC2GYfpaSPLyQLPp1hatE0pTCiHnBhEDRihjceQUoK3Dt8ABGgAXbvaY",
+      "title": "Orlej Perci",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.ktg.wroclaw.pl/diadem.php",
+      "title": "Komisja Turystyki G\u00F3rskiej",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.facebook.com/dariusz.kowal.77/posts/2437994432928128",
+      "title": "Dariusz Kowal - 27-28.06.2019r. Wyprawa na 6 szczyt\u00F3w nale\u017C\u0105cych...",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://tatromaniak.pl/aktualnosci/na-mieguszowiecka-przelecz-pod-chlopkiem-film/?fbclid=IwAR0t8NajCTPlR0IuWztDe1SIcEZqV8lzTdxtz_-5IkDmxNLlT59zn7gMyEA",
+      "title": "Na Mi\u0119guszowieck\u0105 Prze\u0142\u0119cz pod Ch\u0142opkiem (FILM) - TATROMANIAK - Serwis Mi\u0142o\u015Bnik\u00F3w Tatr - TATROMANIAK - Serwis Mi\u0142o\u015Bnik\u00F3w Tatr",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://tatromaniak.pl/aktualnosci/kolor-szlaku-a-jego-trudnosc/?fbclid=IwAR1iPg7zw9xEztme0XA9oBqAKn2cRWeWr8IRprB0mibNp0IwSsxtS6y90So",
+      "title": "Kolor szlaku a jego trudno\u015B\u0107 - TATROMANIAK - Serwis Mi\u0142o\u015Bnik\u00F3w Tatr - TATROMANIAK - Serwis Mi\u0142o\u015Bnik\u00F3w Tatr",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://onestepforward.pl/trzydniowianski-i-konczysty-wierch/?fbclid=IwAR3-Ksa1OXqVQbfQRA-wxkbNAKpoXPatZ0yXE3tyNA9DMgsj1rczsYZgmSs",
+      "title": "TRZYDNIOWIA\u0143SKI I KO\u0143CZYSTY WIERCH \u2013 OPIS SZLAKU | ONE STEP FORWARD",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://tatromaniak.pl/aktualnosci/20-najpiekniejszych-miejsc-w-tatrach-polskich/?fbclid=IwAR1owQ3humNSSROdZa6tMv7eUIK5oPYu9eTudT1Ojys9axLKvaWxE3ujveo",
+      "title": "20 najpi\u0119kniejszych miejsc w Tatrach Polskich - TATROMANIAK - Serwis Mi\u0142o\u015Bnik\u00F3w Tatr - TATROMANIAK - Serwis Mi\u0142o\u015Bnik\u00F3w Tatr",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E G\u00F3ry",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005008321379249.html?mp=1\u0026gatewayAdapt=glo2pol",
+      "title": "[Picube] QiYi Clock Blue ChuanShi Cubo Magnetic Magic Puzzle Cube Puzzle Learning Educational Puzzle Cubes Toys Fidget Toy - AliExpress 26",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://strefa-kostek.pl/x-man-spark-m-7x7x7-3203.html#/44-kolor-color_bright",
+      "title": "X-man Spark M 7x7x7 - StrefaKostek.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://strefa-kostek.pl/the-valk-5x5x5-magnetic-4416.html",
+      "title": "The Valk 5x5x5 Magnetic - StrefaKostek.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4001319315794.html?spm=a2g0o.productlist.0.0.7f647ada6AfEfx\u0026algo_pvid=4799d036-0e3e-4f9c-af39-9947c3ac0519\u0026algo_expid=4799d036-0e3e-4f9c-af39-9947c3ac0519-1\u0026btsid=2100bdcf16149745427213036eac01\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "YongJun MGC 4X4 wysokiej klasy Stickerless magnetyczne magiczne kostki Puzzle edukacyjne dla konkurencji zabawki|Magiczne kostki| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005001874095633.html?spm=a2g0o.productlist.0.0.2135774d40AhK0\u0026algo_pvid=cf111fa5-8005-43d4-a5f1-720eba0256e0\u0026algo_expid=cf111fa5-8005-43d4-a5f1-720eba0256e0-1\u0026btsid=0b0a050116148862851366562e6b00\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "DaYan Guhong V4 M 3x3x3 kostka magnetyczna Gu Hong V3M kostka pr\u0119dko\u015Bci Da yan Profissional kostka \u0142amig\u0142\u00F3wka zabawki kostka do gry zabawki edukacyjne Profesjonalna kostka Rubika DaYan Gu hong V4M V3M Magnetic cube|Magiczne kostki| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/wholesale?catId=0\u0026initiative_id=SB_20210208114145\u0026origin=y\u0026SearchText=qiyi\u002BMofangge\u002Bclock",
+      "title": "qiyi Mofangge clock - Kup qiyi Mofangge clock z bezp\u0142atn\u0105 wysy\u0142k\u0105 na AliExpress version",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4001225676412.html?spm=a2g0o.productlist.0.0.46aa2212EUNZuC\u0026algo_pvid=a5c2ae3b-7ad8-4b93-b5f7-2d0eb1176cb7\u0026algo_expid=a5c2ae3b-7ad8-4b93-b5f7-2d0eb1176cb7-6\u0026btsid=2100bde116127318438103336ef4ff\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "Yuxin ma\u0142y magiczny SQ1 magnetyczne kostki kwadratowe 1 magiczne kostki magnetyczne dla 3 warstwy pr\u0119dko\u015B\u0107 kostki profesjonalne Puzzle zabawki dla dzieci prezent|Magiczne kostki| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005001547648202.html?spm=a2g0o.productlist.0.0.df1850253YXhHw\u0026algo_pvid=fb0b901a-3fee-450a-9094-904a4de08272\u0026algo_expid=fb0b901a-3fee-450a-9094-904a4de08272-2\u0026btsid=2100bde116127317839773261ef4ff\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "Cyclone Boys 3x3x3 magnetyczne Skewb kostki profesjonalne 2*2*2 magnes magiczna kostka pr\u0119dko\u015Bci Twisty Puzzle edukacyjne zabawki dla ch\u0142opc\u00F3w|Magiczne kostki| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4000493616964.html?spm=a2g0o.productlist.0.0.10bb3904ERmJXV\u0026algo_pvid=c84377fe-1afc-4072-9b1b-310060b9d8fa\u0026algo_expid=c84377fe-1afc-4072-9b1b-310060b9d8fa-3\u0026btsid=2100bde716138323918318479ef431\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "Najnowszy YJ MGC 5 M kostka 5x5x5 magnetyczna magiczna kostka yongjun MGC 5 magnesy 5x5 puzzle do uk\u0142adania na czas zabawki edukacyjne magiczna kostka|Magiczne kostki| - AliExpress",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/4001225601560.html?spm=a2g0o.productlist.0.0.a98767c1VxcDX3\u0026algo_pvid=29ffdbcd-0397-400b-ab96-1c172f851531\u0026algo_expid=29ffdbcd-0397-400b-ab96-1c172f851531-15\u0026btsid=2100bdd716108255678627552e9ed6\u0026ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_",
+      "title": "7x7",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/wholesale?trafficChannel=main\u0026d=y\u0026CatId=0\u0026SearchText=MoYu\u002BMeiLong\u002B3x3x3\u0026ltype=wholesale\u0026isFreeShip=y\u0026SortType=price_asc\u0026page=1\u0026groupsort=1",
+      "title": "MoYu MeiLong 3x3x3 - Kup MoYu MeiLong 3x3x3 z bezp\u0142atn\u0105 wysy\u0142k\u0105 na AliExpress version",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/moyu-mofang-jiaoshi-3x3x3-meilong-kolorowa-8053029126",
+      "title": "MoYu MoFang JiaoShi 3x3x3 MeiLong Kolorowa 8053029126 - Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E SPEEDCUBE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://bebobi.pl/akcesoria/szelki-bezuciskowe-dla-psa/szelki-bezuciskowe-dla-psa-psyrenki/#/3-rozmiar-l",
+      "title": "Szelki bezuciskowe dla psa PSYRENKI Rozmiar L | Sklep internetowy BeBobi",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/listing?string=ydolo%20duck",
+      "title": "Ydolo Duck - Niska cena na Allegro.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://reico-vital.com/pl/product/10028/maxidog-fleischmix-3-0-kg",
+      "title": "MaxiDog Fleischmix | Karma sucha dla ps\u00F3w",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://apolonki.pl/produkt/maska-wyczesana-jagodzianka/",
+      "title": "Conditioner Wyczesana Jagodzianka - Apolonki",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://apolonki.pl/produkt/szampon-wyczesana-jagodzianka/",
+      "title": "Szampon Wyczesana Jagodzianka - Apolonki",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://apolonki.pl/produkt/mikstura-hani/",
+      "title": "Mikstura Hani Tangle free spray - Apolonki",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://bemokarmy.pl/52-suche-karmy-dla-psow",
+      "title": "szcze",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.temu.com/pl/goods.html?goods_id=601099707159966",
+      "title": "wodoodporna zimowa kurtka dla psa - przytulna odzie\u017C dla zwierz\u0105t z wype\u0142nieniem bawe\u0142nianym dla ma\u0142ych i \u015Brednich ras, zamykana na zatrzaski, wodoodporne p\u0142aszcze zimowe dla ma\u0142ych ps\u00F3w | {region_name}",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.czworonozna-edu.pl/dzienne-zapotrzebowanie/",
+      "title": "ZAPOTRZEBOWANIE KALORYCZNE - Kot i Pies - czworono\u017Cna edukacja",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://sklep.pokusa.org/pl/produkty/910-bugsout-oil-olejek-przeciw-kleszczom-i-insektom-naturalne-kosmetyki.html",
+      "title": "BugsOut Oil - olejek przeciw kleszczom i insektom - naturalne kosmetyki",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://holista.pl/pl/suplementy/792-olej-omega-3-puppy-dla-szczeniat-200ml-5904870034804.html",
+      "title": "Olej Omega-3 Puppy dla szczeni\u0105t 200ml",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://sklep.pokusa.org/pl/produkty/1228-835-premium-selection-jagniecina-z-lososiem-karma-mokra-dla-szczeniat.html#/18-pojemnosc_g-400_g",
+      "title": "Premium Selection - jagni\u0119cina z \u0142ososiem - karma mokra dla szczeni\u0105t",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.virbac.com/products/stomatologia/Enzymatyczna%20pasta%20do%20z%C4%99b%C3%B3w%20dla%20ps%C3%B3w%20i%20kot%C3%B3w%20o%20smaku%20drobiu",
+      "title": "ENZYMATYCZNA PASTA DO Z\u0118B\u00D3W DLA PS\u00D3W I KOT\u00D3W o smaku drobiu",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.frosch.eco/pl/pl/produkty/do-sprzatania-domu/sodowy-srodek-czyszczacy-do-kuchni.html",
+      "title": "\u015Arodek czyszcz\u0105cy do kuchni Sodowy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://sklep.alphaspirit.pl/wiejska-zagroda-jagniecina-ze-szpinakiem,3,689,689",
+      "title": "Wiejska Zagroda jagni\u0119cina ze szpinakiem dla szczeni\u0105t 9kg - WIEJSKA ZAGRODA - Comarch e-Sklep",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E PIESIEK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=S60gCguDIdY",
+      "title": "(2) Magiczny Kabelek Start Stop Jak szybko na sta\u0142e wy\u0142\u0105czy\u0107 Start Stop w Seat Skoda Vw - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E ARONA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=4rxXvuZluBc",
+      "title": "(47) Jak aktywowa\u0107 zielone menu in\u017Cynieryjne w MIB2 Seat Leon 5F / Car Scanner Pro - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E ARONA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.aliexpress.com/item/1005002478266676.html",
+      "title": "Dla Seat Arona 2017-2021 automatyczne zatrzymanie Start uk\u0142ad silnika Off sterowanie urz\u0105dzeniem wtyczka czujnika Stop anuluj - AliExpress 34",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E ARONA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=PD083seom9U",
+      "title": "VW PASSAT w AUTOMACIE ! SKRZYNIA DQ200 0AM Poprawiamy WADE FABRYCZN\u0104 W SKRZYNI AUTOMATYCZNEJ Zobacz! - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E ARONA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=YtDw234t2U0",
+      "title": "(46) Mapy VW nie mieszcz\u0105 si\u0119 na karcie 16GB oraz SD CID lock - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E ARONA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/olej-do-skrzyni-dq200-g055512a2-i-mechatroniki-g004000m2-vw-oe-oryginal-17186442694",
+      "title": "Olej do skrzyni DQ200 G055512A2 i mechatroniki G004000M2 VW OE ORYGINA\u0141 G055512A2 za 262,90\u00A0z\u0142 z OLSZTYN - Allegro.pl - (17186442694)",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E ARONA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://mib-helper.com/index.php?train=MST2_EU_SE_ZR_P0479T",
+      "title": "MST2_EU_SE_ZR_P0479T - Seat Navi 6P0 firmware",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E ARONA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://mibsolution.one/#/1",
+      "title": "mib - MIB Solution",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP \u003E ARONA",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://soleflow.pl/",
+      "title": "Sole Flow | climb resole repeat",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.teachmemicro.com/esp32-vs-esp8266/",
+      "title": "ESP32 vs ESP8266 | Microcontroller Tutorials",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/produkt/gryzak-dla-psa-waz-strazacki-z-amortyzatorem-aport-a8da9778-cd9c-44ed-b32b-b27a86aadd89?offerId=16481527531",
+      "title": "GRYZAK DLA PSA W\u0104\u017B STRA\u017B\u0104CKI Z AMORTYZATOREM APORT \u2022 Cena, Opinie - Allegro",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.oponeo.pl/dane-opony/michelin-alpin-7-205-55-r16-91-h#579406162",
+      "title": "Michelin Alpin 7 205/55 R16 91 H \u00BB Oponeo",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://ottocean.com/store/login",
+      "title": "Login - OTTOcean",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/search?q=5904941603861\u0026ie=UTF-8",
+      "title": "5904941603861 - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://garmin.vasam.cz/download/",
+      "title": "Download \u2013 OSM Garmin Maps by VasaM",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/search?q=DE96-00994A\u0026ie=UTF-8",
+      "title": "DE96-00994A - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/oferta/rekawica-do-usuwania-siersci-zwierzat-domowych-dla-kotow-i-psow-grooming-gloves-for-pet-hair-17597747501?reco_id=db39589d-621c-11f0-858e-224712c972d8\u0026sid=3ec404f37aa2fad6253fa5dd6bb023427743f77ee2f01bb84454c4701b8c0118",
+      "title": "\u0026quot;R\u0119kawica do usuwania sier\u015Bci zwierz\u0105t domowych dla kot\u00F3w i ps\u00F3w,Grooming Gloves for Pet Hair\u0026quot; (758051699963) \u2022 Cena, Opinie \u2022 Zestawy prezentowe 17597747501 \u2022 Allegro",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://cccam.eu/#buy",
+      "title": "Tani serwer CCcam | Serwer CCcam w Europie | Wszystkie kana\u0142y",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.tv-sharing.com/login",
+      "title": "Polska Telewizja",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=xKrHWM1VeFQ",
+      "title": "(128) The Anti-Virus Tier List - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://tolpa.pl/men-hydro-krem-nawilzajacy-75-ml-tme108",
+      "title": "intensywnie nawil\u017Caj\u0105cy wodny \u017Cel, LEKKI, 75 ml | to\u0142pa.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/search?q=Element\u002B%2B\u002BMatrix\u0026sourceid=chrome\u0026ie=UTF-8",
+      "title": "Element \u002B Matrix - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://audioteka.com/pl/audiobook/ojczyzna-dungeonsdragons-legenda-drizzta-tom-1/",
+      "title": "Ojczyzna. Dungeons\u0026Dragons. Legenda Drizzta. Tom 1 - Audiobook - R.A. Salvatore - SAGA Egmont | Audioteka",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.hw-group.com/software/hercules-setup-utility",
+      "title": "Hercules SETUP utility | HW-group.com",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.carvertical.com/pl/landing/v3?a=AutoMotoVlog\u0026b=596ea163\u0026voucher=automoto",
+      "title": "Sprawdzanie historii samochod\u00F3w i motocykli | carVertical",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://clinehub.com/buy.php",
+      "title": "Welcome To Clinehub.com",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/search?q=H07RN\u002B3x2%2C5\u0026ie=UTF-8",
+      "title": "H07RN 3x2,5 - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.justanswer.com/home-theater-stereo/as0t1-denon-avr-x1100w-1225w-7-2ch-no-display-so-works.html",
+      "title": "Denon avr-x1100w 1225w 7.2ch brak wy\u015Bwietlacza. Wi\u0119c co to dzia\u0142a dobrze, exepct musia\u0142em uruchomi\u0107 zar\u00F3wno przedwzmacniacze, jak i g\u0142o\u015Bnik",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://radioandrychow.pl/autor-audycji/jerzy-herma/",
+      "title": "Autor audycji: Jerzy Herma - Radio Andrych\u00F3w",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://moviesandlearn.pl/movies-learn-webinar-4vj6/",
+      "title": "Movies \u0026 Learn \u2013 oferta promocyjna po webinarze \u2013 Movies \u0026 Learn",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/search?q=Krem\u002Bz\u002Bkwasem\u002Bpirogronowym\u0026ie=UTF-8",
+      "title": "Krem z kwasem pirogronowym - Szukaj w Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.napiecie.salama.pl/",
+      "title": "Aktualno\u015Bci - Napi\u0119cie Salama - sprawd\u017A i wyra\u017A swoja opini\u0119",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://bezel.com.pl/",
+      "title": "Bezel \u2013 Bezpiecze\u0144stwo Elektryczne \u2013 Witryna https://bezel.com.pl dedykowana jest dla os\u00F3b organizuj\u0105cym, nadzoruj\u0105cym i wykonuj\u0105cym prace przy urz\u0105dzeniach, instalacjach i sieciach elektroenergetycznych, przygotowuj\u0105cym si\u0119 do egzamin\u00F3w kwalifikacyjnych, a tak\u017Ce zainteresowanym bezpiecze\u0144stwem elektrycznym.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.euro-linux.com/eurolinux/desktop/",
+      "title": "EuroLinux Desktop \u2013 desktopowa funkcjonalno\u015B\u0107 \u2013 serwerowa jako\u015B\u0107",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://zywienie.medonet.pl/produkty-spozywcze/napoje/6-napojow-odtruwajacych-watroba-od-razu-poczuje-sie-lepiej/k1npxx1",
+      "title": "Sze\u015B\u0107 napoj\u00F3w odtruwaj\u0105cych. W\u0105troba od razu poczuje si\u0119 lepiej",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.onet.pl/styl-zycia/fabrykasily/choroba-refluksowa-coraz-czesciej-dotyka-polakow-jak-ja-rozpoznac-i-leczyc/ezc413d,30bc1058",
+      "title": "Choroba refluksowa coraz cz\u0119\u015Bciej dotyka Polak\u00F3w. Jak j\u0105 rozpozna\u0107 i leczy\u0107? - Styl \u017Cycia",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.onet.pl/styl-zycia/fabrykasily/refluks-wrzody-wzdecia-naturalne-sposoby-na-zniwelowanie-objawow/mwzyrjl,30bc1058",
+      "title": "Refluks, wrzody, wzd\u0119cia \u2013 naturalne sposoby na zniwelowanie objaw\u00F3w - Styl \u017Cycia",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://code.org/",
+      "title": "Co b\u0119dziesz tworzy\u0107? | Code.org",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://wall.alphacoders.com/",
+      "title": "Wallpaper Abyss - Computer Wallpapers, Desktop Backgrounds",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/playlist?list=PLj-elSsrERhHmVmRG53qb7OMYTT3fD4Z-",
+      "title": "Podstawy gimpa - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/user/LeonGraphics/videos",
+      "title": "LeonGraphics - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.sat-4-all.com/board/topic/173231-image-openpli-nbox-adb5800xx/",
+      "title": "[IMAGE] OpenPLi [ nbox ADB5800xx ] - SAT-4-ALL\u2122",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.sat-4-all.com/board/forum/247-enigma2-emu-pluginy-dodatki/",
+      "title": "SAT-4-ALL\u2122 -\u003E ENIGMA2 EMU, PLUGINY, DODATKI",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.youjizz.com/",
+      "title": "Porn, Porn Tube, You Porn, Free Porn Movies, Porntube, Sex Tube, Pornotube, Porno Tube, Sextube, Free Porn",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.ofeminin.pl/fitness-i-zdrowie/zdrowie/jak-zasnac-w-dwie-minuty-ta-wojskowa-metoda-jest-naprawde-skuteczna/vpw6mwj",
+      "title": "Jak zasn\u0105\u0107 w dwie minuty? Ta wojskowa metoda jest naprawd\u0119 skuteczna | Ofeminin",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://allegro.pl/produkt/made-in-lab-180-woda-perfumowana-100-ml-562bea44-047f-4c7c-8dfb-3a394f994991?offerId=17376304285",
+      "title": "dio",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E TEMP",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.google.pl/",
+      "title": "Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://drive.google.com/drive/my-drive",
+      "title": "Dysk Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.pl/maps?hl=pl\u0026tab=wl",
+      "title": "Mapy Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/maps/d/edit?hl=pl\u0026mid=1t4N0vfI_2SOYhiwxjAwQVdY64iW7mCx0\u0026ll=49.994109533660264%2C19.073292549999994\u0026z=8",
+      "title": "Korona G\u00F3r Polski \u2013 Moje Mapy Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://photos.google.com/?pageId=none",
+      "title": "Zdj\u0119cia Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/",
+      "title": "YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://studio.youtube.com/channel/UCWNjydNDtILclmVNLs2EgOA",
+      "title": "Panel kana\u0142u - YouTube Studio",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/live_dashboard?nv=1",
+      "title": "Panel transmisji na \u017Cywo - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://studio.youtube.com/channel/UCWNjydNDtILclmVNLs2EgOA/livestreaming/stream",
+      "title": "Transmisje na \u017Cywo - YouTube Studio",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://mail.google.com/mail/u/0/?hl=pl\u0026shva=1#inbox",
+      "title": "Gmail",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://translate.google.pl/?hl=pl\u0026tab=lT",
+      "title": "T\u0142umacz Google",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.google.com/calendar?tab=Tc",
+      "title": "Kalendarz",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E GOOGLE",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.pkteam.pl/viewforum.php?f=124",
+      "title": "PKT Team",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://winclub.pl/",
+      "title": "WinClub",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://napisy24.pl/",
+      "title": "Napisy24",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Napisy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://dobreprogramy.pl/",
+      "title": "DP",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://kgp.info.pl/",
+      "title": "Korona G\u00F3r Polski",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://miuipolska.pl/forum/forum/724-mi-band-6/",
+      "title": "Mi Band 6",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://miuipolska.pl/forum/forum/708-mi-11-pro-ultra/",
+      "title": "Mi 11",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://forum.android.com.pl/forum/samsung-galaxy-s22ultra/",
+      "title": "Samsung S22 Ultra",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://forum.android.com.pl/forum/2593-huawei-p30-pro/",
+      "title": "Huawei P30 Pro",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://keep.google.com/",
+      "title": "Google Keep",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://audioteka.com/pl/katalog/fantasy-n/?sort=published_at\u0026order=desc",
+      "title": "Fantasy Audioteka",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://retailedge.intel.com/50/emea/index",
+      "title": "Program Intel\u00AE Retail Edge",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://videostar.pl/tv",
+      "title": "TV Na \u017Bywo",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.worldcubeassociation.org/competitions/ReachYourGoalsWroclaw2023/registrations",
+      "title": "dom",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.banggood.com/XIAOMI-27-Inch-2K-Gaming-Monitor-165Hz-IPS-Screen-E-Sports-Monitor-1ms-Response-Free-Sync-178-Viewing-Computer-Monitor-Display-p-1707179.html?p=ER081215935276201711\u0026custlinkid=1694174\u0026cur_warehouse=HK",
+      "title": "Xiaomi 27-inch 2k gaming monitor 165hz ips screen e-sports monitor 1ms response free-sync 178\u00B0 viewing computer monitor display Sale - Banggood.com-arrival notice",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SZW",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewforum.php?f=26",
+      "title": "MikroTik i UBNT - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?p=440450#p440450",
+      "title": "MTU - Kompendium - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?p=564999#p564999",
+      "title": "Router OS 7.16.1 - brak internetu w sieci dla go\u015Bci po skonfigurowaniu DNS over HTTPS - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?p=565335#p565335",
+      "title": "Zalogowanie si\u0119 na MT bez znajomo\u015Bci has\u0142a. - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://wiedza.mrugalski.pl/",
+      "title": "wiedza.mrugalski.pl \u2013 Platforma szkoleniowa Jakuba Mrugalskiego",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://blog.pgkomp.pl/mikrotik-scripts-scheduler-email-ftp-backup/",
+      "title": "MikroTik Scripts Scheduler Email FTP backup - BLOG.PGKOMP.PL",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://forum.mikrotik.com/viewtopic.php?t=132823",
+      "title": "Multiple Road Warrior L2TP/IPsec clients behind NAT - solved - MikroTik",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.wireguardconfig.com/",
+      "title": "WireGuard Tools - Configuration Generator",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?t=51177",
+      "title": "Orange FTTH Triple Play na w\u0142asnym sprz\u0119cie - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=69pqaZG_7vA\u0026feature=youtu.be",
+      "title": "CAPsMAN RouterOS 7.13 - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://nap.edu.pl/nap-mt-blokowanie-reklam-2-2-2-2-2-2-2-2-2-2/blokowanie-reklam/",
+      "title": "Blokowanie Reklam - NAP.edu.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://winclub.pl/",
+      "title": "WinClub",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://support.google.com/accounts/answer/185833?hl=pl",
+      "title": "Logowanie si\u0119 za pomoc\u0105 hase\u0142 do aplikacji - Konto Google - Pomoc",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://mikrotikconfig.com/firewall/?fbclid=IwAR32JYjgM0qN_8Uy0rM3BO7R3hApVPZtUwDftDMQANZmLUEe322osZMRlgc",
+      "title": "IP-Firewall-Address-List Generator",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?f=26\u0026t=67280\u0026p=540868\u0026sid=f7768b0d8c0673deae0921f7844dea48#p540868",
+      "title": "Skrypt dla no-ip.pl i komunikat invalid URL protocol - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://sekurak.pl/firewall-filter-w-mikrotik-routeros/",
+      "title": "Firewall filter w MikroTik RouterOS",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://ncnet.nl/blog/2018/10/how-to-router-mikrotik-jako-lokalny-serwer-dns/",
+      "title": "[How-To] Router MikroTik jako lokalny serwer DNS | nightcom Blog",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?f=26\u0026t=66026\u0026p=533627\u0026sid=187a91ae239686bcaf1176664e4252e3#p533627",
+      "title": "Dwie wzajemnie przezroczyste podsieci LAN w dw\u00F3ch r\u00F3\u017Cnych lokalizacjach - szukam koncepcji - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?f=26\u0026t=65482\u0026sid=246c2e2c03abd863207333a4798c5ab7",
+      "title": "Ruch wewn\u0105trz bridge. - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://wiki.mikrotik.com/wiki/Manual:Simple_CAPsMAN_setup",
+      "title": "Manual:Simple CAPsMAN setup - MikroTik Wiki",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=0gQpxt6AyIQ",
+      "title": "Konfiguracja klienta VPN L2TP/IPsec \u2013 Router Mikrotik - VPNonline - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://helpdeski.pl/backup-sql-z-linii-komend/",
+      "title": "Backup SQL z linii komend. - Potyczki informatyczne",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=tUj1SokpGnI",
+      "title": "Mikrotik L2TP server with Client behind NAT - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=VvxJzfdz47Q\u0026list=PL-t1j_QaAPi3zKcaGSKrXSnVqm8pxgNtm\u0026t=0s\u0026index=2",
+      "title": "Mikrotik Bridge VLAN Filtering - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://pasja-informatyki.pl/sieci-komputerowe/konfiguracja-vlan-tag-vlan-trunk/",
+      "title": "Konfiguracja VLAN (TAG VLAN \u2013 TRUNK)",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pigers1986.wordpress.com/2014/03/12/backup-ms-sql-dbs/",
+      "title": "Backup MS-SQL DBs | Blog M0Cy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=KRRCuKHQRuk",
+      "title": "Mikrotik Script for adding 253 queues by 10 seconds,queue list backup and restore - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://blog.pgkomp.pl/tunnel-eoip-przez-pptp-w-systemie-mikrotik-2/",
+      "title": "Tunnel EoIP przez PPTP MikroTik",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://sekurak.pl/obsluga-wielu-lacz-internetowych-na-routerze-mikrotik/",
+      "title": "Obs\u0142uga wielu \u0142\u0105cz internetowych na routerze MikroTik",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://forum.mikrotik.com/viewtopic.php?t=73901",
+      "title": "Vlan by MAC Address? - MikroTik",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?f=26\u0026t=58128\u0026sid=f15db324627da5888a573844b8607f64",
+      "title": "Mikrotik - LTE - Trzepak.pl",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://trzepak.pl/viewtopic.php?f=26\u0026t=58083",
+      "title": "Adoptowanie Unifi z innej sieci",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=aqnDB_FnfVA",
+      "title": "Konfiguracja UniFi Cloud Key i CRM Point Ubiquiti - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=ucifDsLHj6c",
+      "title": "MikroTik OpenVPN server and Windows OpenVPN client (LAB demo) - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://unifi.ubnt.com/",
+      "title": "UniFi",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.youtube.com/watch?v=IowL5UqNFeQ",
+      "title": "P\u0141ATNIK konwersja bazy SQL na Access Oddajemy dane. Migracja - YouTube",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.phy2vir.com/configuring-mikrotik-to-use-opendns/",
+      "title": "Configuring Mikrotik to use OpenDNS | Phy2Vir",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E MIKROTIK",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://emodul.pl/",
+      "title": "eModul",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://alipaczka.pl/",
+      "title": "AliPaczka",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.opensubtitles.org/pl/ssearch/sublanguageid-pol/idmovie-68188",
+      "title": "Teen Wolf Polski napisy",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Napisy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.opensubtitles.org/pl",
+      "title": "Napisy - pobierz napisy do filmu DivX",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Napisy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://naekranie.pl/kalendarz-premier-seriali?premier_type=world",
+      "title": "Kalendarz premier seriali \u00BBnaEKRANIE",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Napisy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://release24.pl/",
+      "title": "Release24.pl - release film\u00F3w, seriali i gier",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Napisy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "http://www.podnapisi.net/pl/ppodnapisi/search?sT=1\u0026sK=Merlin\u0026sTS=5\u0026sTE=9",
+      "title": "Napisy | Merlin",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Napisy",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://chat.openai.com/",
+      "title": "ChatGPT",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E AI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.freeformatter.com/html-formatter.html",
+      "title": "Free Online HTML Formatter - FreeFormatter.com",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E AI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.cudekai.com/",
+      "title": "Providing AI Tools To The Students And Writers - Plagiarism Remover",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E AI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://app.runwayml.com/login",
+      "title": "Welcome to Runway - Runway",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E AI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.perplexity.ai/",
+      "title": "Perplexity",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E AI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://copilot.microsoft.com/",
+      "title": "Microsoft Copilot: Tw\u00F3j pomocnik AI",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E AI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://gemini.google.com/app",
+      "title": "Gemini",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E AI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://claude.ai/login?returnTo=%2F%3F",
+      "title": "Claude",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E AI",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://frog01-31769.wykr.es/",
+      "title": "zaba44",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://huhu.to/",
+      "title": "HUHU.TO",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://tvgo.orange.pl/",
+      "title": "Orange TV Go",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://www.etutor.pl/",
+      "title": "eTutor",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://192.168.144.201:8006/",
+      "title": "prox",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://192.168.144.66:51439/",
+      "title": "Portainer",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://192.168.144.66:55884/",
+      "title": "Nextcloud",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://192.168.144.67:8123/",
+      "title": "Home Assistant",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "timestamp": "2026-03-23T19:55:33.261Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://zero.pl/",
+      "title": "Zero.pl - w polskim internecie jest za ma\u0142o odwagi.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:57:07.207Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://int.pl/#/login-clear",
+      "title": "Darmowy email INT.PL - szybka rejestracja i logowanie do poczty bez reklam",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T19:57:47.614Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "deleted",
+      "url": "https://buysmarter.pl/?page_id=61",
+      "title": "Kupony i Promocje \u2013 BuySmarter",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T19:59:32.811Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "deleted",
+      "url": "https://pl.gearbest.com/",
+      "title": "Gearbest",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:00:01.610Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "added",
+      "url": "https://buysmarter.pl/?page_id=61",
+      "title": "Kupony i Promocje \u2013 BuySmarter",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:13:15.033Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.gearbest.com/",
+      "title": "Gearbest",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:13:15.033Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "deleted",
+      "url": "https://zero.pl/",
+      "title": "Zero.pl - w polskim internecie jest za ma\u0142o odwagi.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T20:13:15.033Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "deleted",
+      "url": "https://int.pl/#/login-clear",
+      "title": "Darmowy email INT.PL - szybka rejestracja i logowanie do poczty bez reklam",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T20:13:15.033Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "deleted",
+      "url": "https://buysmarter.pl/?page_id=61",
+      "title": "Kupony i Promocje \u2013 BuySmarter",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:15:27.391Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "deleted",
+      "url": "https://pl.gearbest.com/",
+      "title": "Gearbest",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:15:32.657Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "added",
+      "url": "https://buysmarter.pl/?page_id=61",
+      "title": "Kupony i Promocje \u2013 BuySmarter",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:15:48.196Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://pl.gearbest.com/",
+      "title": "Gearbest",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:15:48.196Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://naekranie.pl/",
+      "title": "naEKRANIE.pl - Od fan\u00F3w dla fan\u00F3w.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T20:18:41.295Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "deleted",
+      "url": "https://naekranie.pl/",
+      "title": "naEKRANIE.pl - Od fan\u00F3w dla fan\u00F3w.",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T20:19:46.576Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "deleted",
+      "url": "https://buysmarter.pl/?page_id=61",
+      "title": "Kupony i Promocje \u2013 BuySmarter",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:22:19.531Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "deleted",
+      "url": "https://pl.gearbest.com/",
+      "title": "Gearbest",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E SHOP",
+      "timestamp": "2026-03-23T20:22:25.978Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "deleted",
+      "url": "http://www.podnapisi.net/pl/ppodnapisi/search?sT=1\u0026sK=Merlin\u0026sTS=5\u0026sTE=9",
+      "title": "Napisy | Merlin",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Napisy",
+      "timestamp": "2026-03-23T21:10:06.433Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "deleted",
+      "url": "http://pl.blitzortung.org/live_lightning_maps.php?map=15",
+      "title": "B\u0142yskawice",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E Pogoda",
+      "timestamp": "2026-03-23T21:12:41.063Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://zero.pl/",
+      "title": "Zero",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T21:13:04.219Z",
+      "browser": "Chrome"
+    },
+    {
+      "type": "added",
+      "url": "https://int.pl/#/login-clear",
+      "title": "Darmowy email INT.PL - szybka rejestracja i logowanie do poczty bez reklam",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T21:13:59.278Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "modified",
+      "url": "https://int.pl/#/login-clear",
+      "title": "INT",
+      "oldTitle": "Darmowy email INT.PL - szybka rejestracja i logowanie do poczty bez reklam",
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T21:14:05.686Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "deleted",
+      "url": "https://zero.pl/",
+      "title": "Zero",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T21:15:20.943Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "deleted",
+      "url": "https://int.pl/#/login-clear",
+      "title": "INT",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek",
+      "timestamp": "2026-03-23T21:15:20.943Z",
+      "browser": "Firefox"
+    }
+  ]
+}

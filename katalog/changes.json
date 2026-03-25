@@ -1,0 +1,41 @@
+{
+  "lastUpdated": "2026-03-24T21:55:46.7004403Z",
+  "changes": [
+    {
+      "type": "added",
+      "url": "https://192.168.144.201:8006/",
+      "title": "prox",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "timestamp": "2026-03-24T21:55:46.640Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "added",
+      "url": "https://192.168.144.66:51439/",
+      "title": "Portainer",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "timestamp": "2026-03-24T21:55:46.640Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "added",
+      "url": "https://192.168.144.66:55884/",
+      "title": "Nextcloud",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "timestamp": "2026-03-24T21:55:46.640Z",
+      "browser": "Firefox"
+    },
+    {
+      "type": "added",
+      "url": "https://192.168.144.67:8123/",
+      "title": "Home Assistant",
+      "oldTitle": null,
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "timestamp": "2026-03-24T21:55:46.640Z",
+      "browser": "Firefox"
+    }
+  ]
+}

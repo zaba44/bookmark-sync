@@ -1,0 +1,145 @@
+﻿{
+  "version": 2,
+  "timestamp": "2026-03-24T21:55:46.640Z",
+  "browser": "Firefox",
+  "generator": "BookmarkSyncHost/2.0",
+  "bookmarks": {
+    "id": "root________",
+    "title": "",
+    "url": null,
+    "dateAdded": 1774381336054,
+    "dateModified": 1774389095012,
+    "children": [
+      {
+        "id": "menu________",
+        "title": "Menu Zak\u0142adki",
+        "url": null,
+        "dateAdded": 1774381336054,
+        "dateModified": 1774385071840,
+        "children": null,
+        "specialFolder": "menu"
+      },
+      {
+        "id": "toolbar_____",
+        "title": "Pasek zak\u0142adek",
+        "url": null,
+        "dateAdded": 1774381336054,
+        "dateModified": 1774389095012,
+        "children": [
+          {
+            "id": "4afbb556028e",
+            "title": "virt",
+            "url": null,
+            "dateAdded": 1774297272647,
+            "dateModified": 1774385049216,
+            "children": [
+              {
+                "id": "49b7f7abe0ec",
+                "title": "prox",
+                "url": "https://192.168.144.201:8006/",
+                "dateAdded": 1774297272648,
+                "dateModified": null,
+                "children": null,
+                "specialFolder": null
+              },
+              {
+                "id": "bac79b8b2cc9",
+                "title": "Portainer",
+                "url": "https://192.168.144.66:51439/",
+                "dateAdded": 1774297272650,
+                "dateModified": null,
+                "children": null,
+                "specialFolder": null
+              },
+              {
+                "id": "40b91372f40b",
+                "title": "Nextcloud",
+                "url": "https://192.168.144.66:55884/",
+                "dateAdded": 1774297272652,
+                "dateModified": null,
+                "children": null,
+                "specialFolder": null
+              },
+              {
+                "id": "f8c918d2a9b7",
+                "title": "Home Assistant",
+                "url": "https://192.168.144.67:8123/",
+                "dateAdded": 1774297272654,
+                "dateModified": null,
+                "children": null,
+                "specialFolder": null
+              }
+            ],
+            "specialFolder": null
+          }
+        ],
+        "specialFolder": "toolbar"
+      },
+      {
+        "id": "unfiled_____",
+        "title": "Pozosta\u0142e zak\u0142adki",
+        "url": null,
+        "dateAdded": 1774381336054,
+        "dateModified": 1774385071840,
+        "children": null,
+        "specialFolder": "unsorted"
+      },
+      {
+        "id": "mobile______",
+        "title": "Zak\u0142adki z\u00A0telefonu",
+        "url": null,
+        "dateAdded": 1774381336088,
+        "dateModified": 1774385071840,
+        "children": null,
+        "specialFolder": "mobile"
+      }
+    ],
+    "specialFolder": "root"
+  },
+  "index": {
+    "f3e98c271add910d": {
+      "url": "https://192.168.144.201:8006/",
+      "title": "prox",
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "dateAdded": 1774297272648,
+      "dateModified": null,
+      "lastSeen": "2026-03-24T21:55:46.640Z",
+      "seenBy": [
+        "Firefox"
+      ]
+    },
+    "30c46fad2edf702e": {
+      "url": "https://192.168.144.66:51439/",
+      "title": "Portainer",
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "dateAdded": 1774297272650,
+      "dateModified": null,
+      "lastSeen": "2026-03-24T21:55:46.640Z",
+      "seenBy": [
+        "Firefox"
+      ]
+    },
+    "8cdf0e2f1a0e41b5": {
+      "url": "https://192.168.144.66:55884/",
+      "title": "Nextcloud",
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "dateAdded": 1774297272652,
+      "dateModified": null,
+      "lastSeen": "2026-03-24T21:55:46.640Z",
+      "seenBy": [
+        "Firefox"
+      ]
+    },
+    "65208c8f1c202efe": {
+      "url": "https://192.168.144.67:8123/",
+      "title": "Home Assistant",
+      "folder": "Pasek zak\u0142adek \u003E virt",
+      "dateAdded": 1774297272654,
+      "dateModified": null,
+      "lastSeen": "2026-03-24T21:55:46.640Z",
+      "seenBy": [
+        "Firefox"
+      ]
+    }
+  }
+}

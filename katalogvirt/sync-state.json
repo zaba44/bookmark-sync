@@ -1,0 +1,28 @@
+{
+  "browsers": {
+    "ff585ca3-5402-4ebd-a923-dc24fb445e20": {
+      "browser": "Chrome",
+      "instanceId": "ff585ca3-5402-4ebd-a923-dc24fb445e20",
+      "lastSync": "2026-03-23T20:22:31.447Z",
+      "count": 333
+    },
+    "4019eda3-7374-4b63-9c02-7f2be8a43a60": {
+      "browser": "Firefox",
+      "instanceId": "4019eda3-7374-4b63-9c02-7f2be8a43a60",
+      "lastSync": "2026-03-23T20:20:46.615Z",
+      "count": 335
+    },
+    "47483637-7482-486c-949d-5bfb2e3f029a": {
+      "browser": "Chrome",
+      "instanceId": "47483637-7482-486c-949d-5bfb2e3f029a",
+      "lastSync": "2026-03-23T21:13:04.219Z",
+      "count": 332
+    },
+    "9e8d4d61-cfcc-4c7e-b664-35715c9eda1f": {
+      "browser": "Firefox",
+      "instanceId": "9e8d4d61-cfcc-4c7e-b664-35715c9eda1f",
+      "lastSync": "2026-03-23T21:15:20.943Z",
+      "count": 331
+    }
+  }
+}

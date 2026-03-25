@@ -1,0 +1,16 @@
+{
+  "browsers": {
+    "b2250052-e7a6-4683-8afd-95ba6a32c34e": {
+      "browser": "Firefox",
+      "instanceId": "b2250052-e7a6-4683-8afd-95ba6a32c34e",
+      "lastSync": "2026-03-24T21:55:46.640Z",
+      "count": 4
+    },
+    "28cb0e05-0369-47e5-8f86-cffc4c97acb0": {
+      "browser": "Chrome",
+      "instanceId": "28cb0e05-0369-47e5-8f86-cffc4c97acb0",
+      "lastSync": "2026-03-24T21:58:38.438Z",
+      "count": 4
+    }
+  }
+}

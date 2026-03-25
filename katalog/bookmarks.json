@@ -1,0 +1,122 @@
+﻿{
+  "version": 2,
+  "timestamp": "2026-03-24T21:58:38.438Z",
+  "browser": "Chrome",
+  "generator": "BookmarkSyncHost/2.0",
+  "bookmarks": {
+    "id": "0",
+    "title": "",
+    "url": null,
+    "dateAdded": 1774385159070,
+    "dateModified": null,
+    "children": [
+      {
+        "id": "1",
+        "title": "Pasek ulubionych",
+        "url": null,
+        "dateAdded": 1774385159070,
+        "dateModified": 1774389513426,
+        "children": [
+          {
+            "id": "370",
+            "title": "virt",
+            "url": null,
+            "dateAdded": 1774389392720,
+            "dateModified": 1774389392736,
+            "children": [
+              {
+                "id": "371",
+                "title": "prox",
+                "url": "https://192.168.144.201:8006/",
+                "dateAdded": 1774389392729,
+                "dateModified": null,
+                "children": null,
+                "specialFolder": null
+              },
+              {
+                "id": "372",
+                "title": "Portainer",
+                "url": "https://192.168.144.66:51439/",
+                "dateAdded": 1774389392731,
+                "dateModified": null,
+                "children": null,
+                "specialFolder": null
+              },
+              {
+                "id": "374",
+                "title": "Home Assistant",
+                "url": "https://192.168.144.67:8123/",
+                "dateAdded": 1774389392736,
+                "dateModified": null,
+                "children": null,
+                "specialFolder": null
+              }
+            ],
+            "specialFolder": null
+          },
+          {
+            "id": "373",
+            "title": "Nextcloud",
+            "url": "https://192.168.144.66:55884/",
+            "dateAdded": 1774389392734,
+            "dateModified": null,
+            "children": null,
+            "specialFolder": null
+          }
+        ],
+        "specialFolder": "toolbar"
+      }
+    ],
+    "specialFolder": "root"
+  },
+  "index": {
+    "f3e98c271add910d": {
+      "url": "https://192.168.144.201:8006/",
+      "title": "prox",
+      "folder": "Pasek ulubionych \u003E virt",
+      "dateAdded": 1774389392729,
+      "dateModified": null,
+      "lastSeen": "2026-03-24T21:58:38.438Z",
+      "seenBy": [
+        "Firefox",
+        "Chrome"
+      ]
+    },
+    "30c46fad2edf702e": {
+      "url": "https://192.168.144.66:51439/",
+      "title": "Portainer",
+      "folder": "Pasek ulubionych \u003E virt",
+      "dateAdded": 1774389392731,
+      "dateModified": null,
+      "lastSeen": "2026-03-24T21:58:38.438Z",
+      "seenBy": [
+        "Firefox",
+        "Chrome"
+      ]
+    },
+    "65208c8f1c202efe": {
+      "url": "https://192.168.144.67:8123/",
+      "title": "Home Assistant",
+      "folder": "Pasek ulubionych \u003E virt",
+      "dateAdded": 1774389392736,
+      "dateModified": null,
+      "lastSeen": "2026-03-24T21:58:38.438Z",
+      "seenBy": [
+        "Firefox",
+        "Chrome"
+      ]
+    },
+    "8cdf0e2f1a0e41b5": {
+      "url": "https://192.168.144.66:55884/",
+      "title": "Nextcloud",
+      "folder": "Pasek ulubionych",
+      "dateAdded": 1774389392734,
+      "dateModified": null,
+      "lastSeen": "2026-03-24T21:58:38.438Z",
+      "seenBy": [
+        "Firefox",
+        "Chrome"
+      ]
+    }
+  }
+}
