@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bookmark Sync — Ustawienia</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #1e1e2e; --surface: #2a2a3e; --surface2: #313145;
+      --border: #3a3a5c; --accent: #7c6af7; --accent-h: #9580ff;
+      --ok: #50fa7b; --err: #ff5555; --warn: #f1fa8c;
+      --text: #cdd6f4; --muted: #7f849c; --r: 8px;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      font-size: 14px; background: var(--bg); color: var(--text);
+      min-height: 100vh; padding: 0;
+    }
+
+    /* Layout */
+    .layout { display: flex; min-height: 100vh; }
+    .sidebar {
+      width: 220px; background: var(--surface); border-right: 1px solid var(--border);
+      padding: 24px 0; flex-shrink: 0;
+    }
+    .sidebar-title {
+      font-size: 13px; font-weight: 700; color: var(--muted);
+      text-transform: uppercase; letter-spacing: .1em;
+      padding: 0 20px 16px;
+    }
+    .nav-item {
+      display: flex; align-items: center; gap: 10px;
+      padding: 10px 20px; cursor: pointer; font-size: 14px;
+      color: var(--muted); transition: all .15s; border: none;
+      background: none; width: 100%; text-align: left;
+    }
+    .nav-item:hover { color: var(--text); background: rgba(255,255,255,.05); }
+    .nav-item.active { color: var(--accent); background: rgba(124,106,247,.12); }
+    .nav-icon { font-size: 16px; width: 20px; }
+
+    .content { flex: 1; padding: 32px; max-width: 800px; }
+
+    /* Sekcje */
+    .page { display: none; }
+    .page.active { display: block; }
+    .page-title { font-size: 20px; font-weight: 600; margin-bottom: 24px; }
+
+    .card {
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: var(--r); padding: 20px; margin-bottom: 16px;
+    }
+    .card-title {
+      font-size: 13px; font-weight: 600; color: var(--muted);
+      text-transform: uppercase; letter-spacing: .08em; margin-bottom: 14px;
+    }
+
+    /* Formularz */
+    .field { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+    .field label { min-width: 120px; font-size: 13px; color: var(--muted); }
+    input[type=number], input[type=text] {
+      padding: 7px 10px; background: var(--surface2); border: 1px solid var(--border);
+      border-radius: var(--r); color: var(--text); font-size: 13px; outline: none;
+      transition: border-color .15s;
+    }
+    input:focus { border-color: var(--accent); }
+    input[type=number] { width: 100px; }
+    input[type=text]   { width: 300px; }
+
+    /* Przyciski */
+    .btn {
+      padding: 8px 16px; border: none; border-radius: var(--r);
+      font-size: 13px; font-weight: 500; cursor: pointer;
+      transition: background .15s, opacity .15s;
+    }
+    .btn:disabled { opacity: .5; cursor: not-allowed; }
+    .btn--primary  { background: var(--accent); color: #fff; }
+    .btn--primary:hover:not(:disabled) { background: var(--accent-h); }
+    .btn--secondary {
+      background: var(--surface2); color: var(--text);
+      border: 1px solid var(--border);
+    }
+    .btn--secondary:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+    .btn--danger {
+      background: rgba(255,85,85,.15); color: var(--err);
+      border: 1px solid rgba(255,85,85,.3);
+    }
+    .btn--danger:hover:not(:disabled) { background: rgba(255,85,85,.25); }
+    .btn--sm { padding: 4px 10px; font-size: 12px; }
+
+    /* Toggle (switch) */
+    .toggle-row {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 10px 0; border-bottom: 1px solid var(--border);
+    }
+    .toggle-row:last-child { border-bottom: none; padding-bottom: 0; }
+    .toggle-info { flex: 1; }
+    .toggle-label { font-size: 14px; margin-bottom: 2px; }
+    .toggle-sub   { font-size: 12px; color: var(--muted); }
+    .toggle {
+      position: relative; width: 40px; height: 22px; flex-shrink: 0; margin-left: 16px;
+    }
+    .toggle input { opacity: 0; width: 0; height: 0; }
+    .toggle-slider {
+      position: absolute; inset: 0; background: var(--border);
+      border-radius: 22px; cursor: pointer; transition: .2s;
+    }
+    .toggle-slider::before {
+      content: ''; position: absolute; width: 16px; height: 16px;
+      left: 3px; top: 3px; background: #fff;
+      border-radius: 50%; transition: .2s;
+    }
+    .toggle input:checked + .toggle-slider { background: var(--accent); }
+    .toggle input:checked + .toggle-slider::before { transform: translateX(18px); }
+
+    /* Drzewo zakładek */
+    .tree { font-size: 13px; }
+    .tree-node { padding: 2px 0; }
+    .tree-row {
+      display: flex; align-items: center; gap: 6px; padding: 4px 6px;
+      border-radius: 4px; cursor: pointer; transition: background .1s;
+    }
+    .tree-row:hover { background: rgba(255,255,255,.05); }
+    .tree-toggle { width: 16px; text-align: center; font-size: 10px; color: var(--muted); cursor: pointer; flex-shrink: 0; }
+    .tree-icon { font-size: 14px; flex-shrink: 0; }
+    .tree-label { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .tree-url { font-size: 11px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 300px; }
+    .tree-children { padding-left: 22px; }
+    .tree-children.collapsed { display: none; }
+    .tree-add-btn {
+      opacity: 0; padding: 2px 6px; font-size: 11px;
+      background: rgba(124,106,247,.2); border: none; border-radius: 4px;
+      color: var(--accent); cursor: pointer; transition: opacity .1s; flex-shrink: 0;
+    }
+    .tree-row:hover .tree-add-btn { opacity: 1; }
+
+    /* Lista wykluczeń */
+    .excl-list { display: flex; flex-direction: column; gap: 6px; margin-bottom: 14px; }
+    .excl-item {
+      display: flex; align-items: center; gap: 10px;
+      padding: 8px 12px; background: var(--surface2);
+      border-radius: var(--r); border: 1px solid var(--border);
+    }
+    .excl-icon { font-size: 14px; flex-shrink: 0; }
+    .excl-info { flex: 1; overflow: hidden; }
+    .excl-label { font-size: 13px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .excl-type  { font-size: 11px; color: var(--muted); }
+    .excl-remove { background: none; border: none; color: var(--muted); cursor: pointer; font-size: 16px; padding: 0 4px; }
+    .excl-remove:hover { color: var(--err); }
+
+    /* Dodaj wykluczenie URL */
+    .add-url-row { display: flex; gap: 8px; margin-top: 10px; }
+    .add-url-row input { flex: 1; }
+
+    /* Status */
+    .status-bar {
+      position: fixed; bottom: 20px; right: 20px;
+      padding: 10px 16px; border-radius: var(--r);
+      font-size: 13px; opacity: 0; transition: opacity .3s;
+      pointer-events: none;
+    }
+    .status-bar.show { opacity: 1; }
+    .status-bar--success { background: rgba(80,250,123,.15); color: var(--ok); border: 1px solid rgba(80,250,123,.3); }
+    .status-bar--error   { background: rgba(255,85,85,.15);  color: var(--err); border: 1px solid rgba(255,85,85,.3); }
+
+    .divider { height: 1px; background: var(--border); margin: 16px 0; }
+    .mt { margin-top: 12px; }
+    .empty { color: var(--muted); font-size: 13px; font-style: italic; padding: 8px 0; }
+  </style>
+</head>
+<body>
+
+<div class="layout">
+  <!-- Sidebar -->
+  <div class="sidebar">
+    <div class="sidebar-title">Bookmark Sync</div>
+    <button class="nav-item active" data-page="filters">
+      <span class="nav-icon">🚫</span> Wykluczenia
+    </button>
+    <button class="nav-item" data-page="connection">
+      <span class="nav-icon">📡</span> Połączenie
+    </button>
+    <button class="nav-item" data-page="history-cfg">
+      <span class="nav-icon">📋</span> Historia
+    </button>
+  </div>
+
+  <!-- Content -->
+  <div class="content">
+
+    <!-- ══ Strona: Wykluczenia ══ -->
+    <div class="page active" id="page-filters">
+      <div class="page-title">🚫 Wykluczenia przy eksporcie</div>
+
+      <!-- Reguły automatyczne -->
+      <div class="card">
+        <div class="card-title">Reguły automatyczne</div>
+        <div id="builtin-rules-list">
+          <!-- generowane przez JS -->
+        </div>
+      </div>
+
+      <!-- Ręczne wykluczenia — foldery z drzewa -->
+      <div class="card">
+        <div class="card-title">Wykluczone foldery i zakładki</div>
+        <div class="excl-list" id="manual-excl-list">
+          <!-- generowane przez JS -->
+        </div>
+        <button class="btn btn--secondary btn--sm" id="btn-open-tree">
+          📁 Wybierz z drzewa zakładek...
+        </button>
+      </div>
+
+      <!-- Ręczne wykluczenia — URL i wzorce -->
+      <div class="card">
+        <div class="card-title">Wyklucz po adresie URL lub wzorcu</div>
+        <p style="font-size:12px;color:var(--muted);margin-bottom:10px">
+          Wpisz pełny URL lub wzorzec z * (np. <code>http://192.168.*</code> wyklucza wszystkie lokalne adresy)
+        </p>
+        <div class="add-url-row">
+          <input type="text" id="excl-url-input" placeholder="https://... lub wzorzec z *" />
+          <button class="btn btn--secondary btn--sm" id="btn-add-url">Dodaj URL</button>
+          <button class="btn btn--secondary btn--sm" id="btn-add-pattern">Dodaj wzorzec</button>
+        </div>
+      </div>
+
+      <button class="btn btn--primary" id="btn-save-filters">💾 Zapisz ustawienia filtrów</button>
+    </div>
+
+    <!-- ══ Strona: Połączenie ══ -->
+    <div class="page" id="page-connection">
+      <div class="page-title">📡 Połączenie z hostem</div>
+      <div class="card">
+        <div class="card-title">Ustawienia serwera</div>
+        <div class="field">
+          <label>Port</label>
+          <input type="number" id="conn-port" value="51062" min="1024" max="65535" />
+          <button class="btn btn--secondary btn--sm" id="btn-test-conn">Testuj połączenie</button>
+        </div>
+        <div id="conn-status" style="font-size:13px;color:var(--muted);margin-top:8px"></div>
+        <div class="divider"></div>
+        <button class="btn btn--primary" id="btn-save-conn">💾 Zapisz</button>
+      </div>
+    </div>
+
+    <!-- ══ Strona: Historia (konfiguracja) ══ -->
+    <div class="page" id="page-history-cfg">
+      <div class="page-title">📋 Konfiguracja historii</div>
+      <div class="card">
+        <div class="card-title">Przechowywanie kopii</div>
+        <div class="field">
+          <label>Maks. plików</label>
+          <input type="number" id="hist-max-files" value="50" min="5" max="500" />
+        </div>
+        <div class="divider"></div>
+        <button class="btn btn--primary" id="btn-save-hist-cfg">💾 Zapisz</button>
+      </div>
+    </div>
+
+  </div><!-- /content -->
+</div><!-- /layout -->
+
+<!-- Modal: drzewo zakładek -->
+<div id="tree-modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.6);z-index:100;align-items:center;justify-content:center">
+  <div style="background:var(--surface);border:1px solid var(--border);border-radius:var(--r);width:560px;max-height:80vh;display:flex;flex-direction:column;">
+    <div style="padding:16px 20px;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center">
+      <span style="font-weight:600">Wybierz folder lub zakładkę do wykluczenia</span>
+      <button id="btn-close-tree" style="background:none;border:none;color:var(--muted);font-size:20px;cursor:pointer">✕</button>
+    </div>
+    <div id="tree-container" style="flex:1;overflow-y:auto;padding:12px 16px" class="tree"></div>
+  </div>
+</div>
+
+<!-- Status bar -->
+<div class="status-bar" id="status-bar"></div>
+
+<script src="options.js"></script>
+</body>
+</html>

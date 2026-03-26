@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bookmark Sync</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --bg: #1e1e2e; --surface: #2a2a3e; --border: #3a3a5c;
+      --accent: #7c6af7; --accent-h: #9580ff;
+      --ok: #50fa7b; --err: #ff5555; --warn: #f1fa8c; --info: #8be9fd;
+      --text: #cdd6f4; --muted: #7f849c; --r: 8px;
+    }
+    body { width:340px; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+           font-size:13px; background:var(--bg); color:var(--text); padding:0; }
+
+    .header { display:flex; align-items:center; gap:8px; padding:12px 16px;
+               border-bottom:1px solid var(--border); }
+    .header-title { font-size:14px; font-weight:600; flex:1; }
+    #host-indicator { font-size:15px; cursor:default; }
+    .settings-link { font-size:16px; cursor:pointer; opacity:.6; text-decoration:none; background:none; border:none; }
+    .settings-link:hover { opacity:1; }
+
+    .tabs { display:flex; border-bottom:1px solid var(--border); }
+    .tab-btn {
+      flex:1; padding:9px; border:none; background:none; color:var(--muted);
+      font-size:12px; font-weight:500; cursor:pointer; transition:all .15s;
+      border-bottom:2px solid transparent;
+    }
+    .tab-btn:hover { color:var(--text); }
+    .tab-btn.active { color:var(--accent); border-bottom-color:var(--accent); }
+
+    .tab-panel { display:none; padding:14px 16px; }
+    .tab-panel.active { display:block; }
+
+    .section-label { font-size:10px; font-weight:600; text-transform:uppercase;
+                     letter-spacing:.08em; color:var(--muted); margin-bottom:7px; }
+    .row { display:flex; align-items:center; gap:8px; margin-bottom:6px; }
+    label.row-label { font-size:12px; color:var(--muted); white-space:nowrap; min-width:40px; }
+
+    input[type=number], select {
+      flex:1; padding:6px 8px; background:var(--surface); border:1px solid var(--border);
+      border-radius:var(--r); color:var(--text); font-size:12px; outline:none;
+    }
+    input[type=number]:focus, select:focus { border-color:var(--accent); }
+    input[type=number] { width:70px; flex:none; }
+
+    input[type=range] {
+      flex:1; accent-color:var(--accent); cursor:pointer;
+    }
+    .range-row { display:flex; align-items:center; gap:8px; }
+    .range-val { font-size:12px; color:var(--accent); min-width:55px; text-align:right; font-weight:600; }
+
+    .radio-group { display:flex; gap:12px; margin-bottom:6px; }
+    .radio-group label { display:flex; align-items:center; gap:5px; font-size:12px; cursor:pointer; }
+
+    #schedule-panel { background:var(--surface); border:1px solid var(--border);
+                      border-radius:var(--r); padding:10px; margin-top:6px; }
+    .checkbox-row { display:flex; align-items:center; gap:7px; font-size:12px; margin-top:8px; }
+
+    .btn { width:100%; padding:7px; border:none; border-radius:var(--r);
+           font-size:12px; font-weight:500; cursor:pointer; transition:background .15s,opacity .15s; }
+    .btn:disabled { opacity:.5; cursor:not-allowed; }
+    .btn--primary  { background:var(--accent); color:#fff; }
+    .btn--primary:hover:not(:disabled)   { background:var(--accent-h); }
+    .btn--secondary { background:var(--surface); color:var(--text);
+                      border:1px solid var(--border); margin-top:5px; }
+    .btn--secondary:hover:not(:disabled) { border-color:var(--accent); color:var(--accent); }
+    .btn--danger { background:rgba(255,85,85,.15); color:var(--err);
+                   border:1px solid rgba(255,85,85,.3); margin-top:5px; }
+    .btn--danger:hover:not(:disabled) { background:rgba(255,85,85,.25); }
+    .btn--info { background:rgba(139,233,253,.1); color:var(--info);
+                 border:1px solid rgba(139,233,253,.3); margin-top:5px; }
+    .btn--info:hover:not(:disabled) { background:rgba(139,233,253,.2); }
+    .btn--sm { padding:4px 8px; width:auto; }
+
+    .meta { background:var(--surface); border:1px solid var(--border);
+            border-radius:var(--r); padding:8px 10px; margin-bottom:10px; }
+    .meta-row { font-size:11px; color:var(--muted); line-height:1.7; }
+    #next-save { color:var(--warn); }
+
+    .sync-status {
+      display:flex; align-items:center; gap:6px; padding:6px 10px;
+      border-radius:var(--r); margin-bottom:8px; font-size:12px;
+      background:var(--surface); border:1px solid var(--border);
+    }
+    .sync-status-dot { width:8px; height:8px; border-radius:50%; flex-shrink:0; }
+    .sync-status-dot.green  { background:var(--ok); }
+    .sync-status-dot.yellow { background:var(--warn); }
+    .sync-status-dot.red    { background:var(--err); }
+    .sync-status-dot.gray   { background:var(--muted); }
+
+    .btn-group { display:flex; gap:6px; margin-top:6px; }
+    .btn-group .btn { margin-top:0; }
+
+    .status { min-height:18px; font-size:12px; padding:5px 10px;
+              border-radius:var(--r); margin-top:8px; }
+    .status--idle    { background:transparent; }
+    .status--saving  { background:var(--surface); color:var(--warn); }
+    .status--success { background:rgba(80,250,123,.12); color:var(--ok); }
+    .status--error   { background:rgba(255,85,85,.12);  color:var(--err); }
+    .status--info    { background:rgba(139,233,253,.1); color:var(--info); }
+
+    .divider { height:1px; background:var(--border); margin:10px 0; }
+
+    .history-list { max-height:200px; overflow-y:auto; margin-bottom:10px; }
+    .history-item {
+      padding:8px 10px; border-radius:var(--r); cursor:pointer;
+      border:1px solid transparent; margin-bottom:4px; transition:all .1s;
+    }
+    .history-item:hover { background:var(--surface); border-color:var(--border); }
+    .history-item.selected { background:rgba(124,106,247,.12); border-color:var(--accent); }
+    .history-date { font-size:12px; font-weight:500; }
+    .history-meta { font-size:11px; color:var(--muted); margin-top:2px; }
+    .history-actions {
+      background:var(--surface); border:1px solid var(--border);
+      border-radius:var(--r); padding:10px; margin-bottom:8px;
+    }
+    .history-actions-title { font-size:11px; color:var(--muted); margin-bottom:6px; }
+    #history-selected-info { font-size:12px; font-weight:500; margin-bottom:8px; }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <span style="font-size:18px">🔖</span>
+    <span class="header-title" data-i18n="extensionName">Bookmark Sync</span>
+    <span id="host-indicator" title="">⚪</span>
+    <button class="settings-link" id="open-options" title="Ustawienia">⚙️</button>
+  </div>
+
+  <div class="tabs">
+    <button class="tab-btn active" data-tab="sync">🔄 Sync</button>
+    <button class="tab-btn" data-tab="history">📋 Historia</button>
+  </div>
+
+  <!-- ══ Panel: Sync ══ -->
+  <div class="tab-panel active" id="tab-sync">
+
+    <!-- Stan synchronizacji -->
+    <div class="sync-status" id="sync-status-bar">
+      <div class="sync-status-dot gray" id="sync-dot"></div>
+      <span id="sync-status-text" style="color:var(--muted)">Sprawdzanie...</span>
+    </div>
+
+    <div class="section-label" data-i18n="sectionSettings">Settings</div>
+    <div class="row">
+      <label class="row-label" data-i18n="labelPort">Port</label>
+      <input type="number" id="port" value="51062" min="1024" max="65535" />
+      <span style="font-size:11px;color:var(--muted)">(51062)</span>
+    </div>
+
+    <div class="section-label" style="margin-top:8px">Automatyczna synchronizacja</div>
+    <div class="radio-group">
+      <label><input type="radio" name="mode" id="mode-manual" checked />
+        <span>Wyłączona</span></label>
+      <label><input type="radio" name="mode" id="mode-scheduled" />
+        <span>Co X minut</span></label>
+    </div>
+
+    <div id="schedule-panel" style="display:none">
+      <div class="range-row">
+        <label style="font-size:12px;color:var(--muted);white-space:nowrap">Co</label>
+        <input type="range" id="interval-range" min="1" max="60" value="5" />
+        <span class="range-val" id="interval-val">5 min</span>
+      </div>
+      <div style="margin-top:8px;font-size:12px;color:var(--muted);margin-bottom:4px">Tryb automatycznej sync:</div>
+      <div class="radio-group">
+        <label><input type="radio" name="auto-mode" id="auto-full" checked />
+          <span>Synchronizuj (dodaj + usuń)</span></label>
+        <label><input type="radio" name="auto-mode" id="auto-add" />
+          <span>Tylko dodaj brakujące</span></label>
+      </div>
+      <div class="checkbox-row">
+        <input type="checkbox" id="sync-startup" checked />
+        <label for="sync-startup">Sprawdź przy starcie przeglądarki</label>
+      </div>
+    </div>
+
+    <button class="btn btn--secondary" id="save-settings" style="margin-top:8px">💾 Zapisz ustawienia</button>
+
+    <div class="divider"></div>
+
+    <div class="meta">
+      <div class="meta-row" id="last-save"></div>
+      <div class="meta-row" id="bookmarks-count"></div>
+      <div class="meta-row" id="next-save" style="display:none"></div>
+    </div>
+
+    <button class="btn btn--primary" id="save-now">⬆ Wyślij do chmury</button>
+    <button class="btn btn--secondary" id="import-sync" style="margin-top:6px">🔄 Synchronizuj z chmurą</button>
+    <div class="btn-group">
+      <button class="btn btn--info" id="import-merge">⬇ Dodaj brakujące</button>
+      <button class="btn btn--danger" id="import-replace">⬇ Zastąp wszystko</button>
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- Export / Import HTML -->
+    <div class="section-label">Plik HTML</div>
+    <div class="btn-group">
+      <button class="btn btn--secondary" id="btn-export-chrome" style="font-size:11px">⬆ Eksport Chrome</button>
+      <button class="btn btn--secondary" id="btn-export-firefox" style="font-size:11px">⬆ Eksport Firefox</button>
+    </div>
+    <button class="btn btn--secondary" id="btn-import-html" style="margin-top:5px">⬇ Importuj z pliku (HTML / JSON)</button>
+    <input type="file" id="file-import-html" accept=".html,.htm,.json" style="display:none" />
+
+    <div class="divider"></div>
+
+    <!-- Favicon refresh -->
+    <div class="section-label">Favicon</div>
+    <div style="display:flex;align-items:center;gap:8px;margin-bottom:6px">
+      <label style="font-size:12px;color:var(--muted);white-space:nowrap">Kart naraz</label>
+      <input type="number" id="fav-concurrency" value="5" min="1" max="10" style="width:60px" />
+      <label style="font-size:12px;color:var(--muted);white-space:nowrap">Timeout (s)</label>
+      <input type="number" id="fav-timeout" value="10" min="3" max="60" style="width:60px" />
+    </div>
+    <div class="btn-group">
+      <button class="btn btn--secondary" id="btn-refresh-fav">🖼 Odśwież favikony</button>
+      <button class="btn btn--danger btn--sm" id="btn-cancel-fav" style="display:none;width:auto;padding:7px 12px">✕ Stop</button>
+    </div>
+    <div id="fav-progress" style="font-size:11px;color:var(--muted);margin-top:4px;display:none"></div>
+
+    <div class="status status--idle" id="status"></div>
+  </div>
+
+  <!-- ══ Panel: Historia ══ -->
+  <div class="tab-panel" id="tab-history">
+
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
+      <div class="section-label" style="margin:0">Kopie zapasowe</div>
+      <button class="btn btn--secondary btn--sm" id="btn-history-refresh">↻ Odśwież</button>
+    </div>
+
+    <div class="history-list" id="history-list">
+      <div style="color:var(--muted);padding:12px;font-size:12px">Kliknij odśwież aby załadować...</div>
+    </div>
+
+    <div class="history-actions" id="history-actions" style="display:none">
+      <div class="history-actions-title">Wybrana kopia:</div>
+      <div id="history-selected-info"></div>
+      <div class="btn-group">
+        <button class="btn btn--info btn--sm" id="btn-history-import">⬇ Importuj do przeglądarki</button>
+        <button class="btn btn--danger btn--sm" id="btn-history-restore">📌 Ustaw jako aktualną</button>
+      </div>
+    </div>
+
+    <div class="status status--idle" id="status-history"></div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
